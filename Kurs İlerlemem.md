@@ -1,6 +1,8 @@
-# Online Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kursu (384 saat)
-
-Başlangıç: 1. ders:   23_12_2023
+<h1 align="center">
+Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
+</h1>
+___
+:red_circle: *Başlangıç ~ 1. ders: 23.12.2023* :red_circle:
 
 * __Gözden Geçirme ve Hazırlık__
 
@@ -9,7 +11,7 @@ Başlangıç: 1. ders:   23_12_2023
    * Python Programlama Dilinin Yeniden Gözden Geçirilmesi
    * Scipy, Numpy, Pandas ve Matplotlib Kütüphanelerinin Yeniden Gözden Geçirilmesi
 
-Bölümün tamamlanması:   8. ders 21.01.2024
+:white_check_mark: *Bölümün tamamlanması ~ 9. ders 27.01.2024* :white_check_mark:
 
 * __Giriş ve Temel Bilgiler__
 
@@ -326,8 +328,4 @@ Bölümün tamamlanması:   8. ders 21.01.2024
   * Makine Öğrenmesi İçin Amazon AWS SageMaker Platformunun Kullanımı
   * Makine Öğrenmesi İçin Microsoft Azure Platformunun Kullanımı
   * Makine Öğrenmesi İçin Google Cloud Platformunun Kullanımı
-  * Makine Öğrenmesi İçin IBM Watson Platformunun Kullanımı 
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwuduCoqT8pG9XxaqNsZmLX8elLKAG_6GOk)
-
-
-
+  * Makine Öğrenmesi İçin IBM Watson Platformunun Kullanımı
