@@ -18,6 +18,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Zeka Çalışmalarının Tarihsel Gelişimi
   * Yapay Zekanın Alt Alanları
   * Yapay Zekanın Uygulama Alanları
+    
+* :white_check_mark: *Kısmın tamamlanması ~ 10. ders 28.01.2024* :white_check_mark:
   * Öğrenme Nedir? Makineler Öğrenebilir mi?
   * İnsan Öğrenmesinin Bilinen Süreçleri (Klasik Koşullanma, Edimsel Koşullanma, Bilişsel Öğrenme, Sosyal Bilişsel Öğrenme)
   * Makine Öğrenmesi Nedir?
