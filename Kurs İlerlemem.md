@@ -31,7 +31,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 
 * __Biraz İstatistik__
   
-  * İstatistiksel Ölçek Türleri 
+  * İstatistiksel Ölçek Türleri
+
+* :white_check_mark: *Kısmın tamamlanması ~ 11. ders 03.02.2024* :white_check_mark:
   * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik Kavramları
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
