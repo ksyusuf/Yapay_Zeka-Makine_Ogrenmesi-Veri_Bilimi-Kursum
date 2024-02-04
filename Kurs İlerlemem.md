@@ -36,7 +36,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :white_check_mark: *Kısmın tamamlanması ~ 11. ders 03.02.2024* :white_check_mark:
   * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik Kavramları
   * Anakütle ve Örneklem Kavramları
-  * Olasılıkla İlgili Temel Bilgiler 
+  * Olasılıkla İlgili Temel Bilgiler
+
+* :red_circle: *Sonraki kısma giriş yapıldı ~ 12. ders 04.02.2024* :white_check_mark:
   * Python'da Betimsel İstatistik İle İlgili İşlemler Yapan Kütüphanelerin Yeniden Gözden Geçirilmesi
   * Rassal Değişken Kavramı
   * Olasılık Dağılımları
