@@ -42,6 +42,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Python'da Betimsel İstatistik İle İlgili İşlemler Yapan Kütüphanelerin Yeniden Gözden Geçirilmesi
   * Rassal Değişken Kavramı
   * Olasılık Dağılımları
+
+* :red_circle: *Sonraki kısma giriş yapıldı ~ 13. ders 10.02.2024* :white_check_mark:
   * Çok Karşılaşılan Bazı Sürekli ve Kesikli Dağılımlar
   * Merkezi Limit Teoremi
   * Güven Aralıkları (Confidence Intervals)
