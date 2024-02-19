@@ -44,8 +44,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Olasılık Dağılımları
 
 * :red_circle: *Sonraki kısma giriş yapıldı ~ 13. ders 10.02.2024* :white_check_mark:
-* :red_circle: *Kümülatif dağılım fonksiyonu işleniyor ~ 14. ders 11.02.2024* :white_check_mark:
   * Çok Karşılaşılan Bazı Sürekli ve Kesikli Dağılımlar
+* :red_circle: *Kümülatif dağılım fonksiyonu işleniyor ~ 14. ders 11.02.2024* :white_check_mark:
   * Merkezi Limit Teoremi
   * Güven Aralıkları (Confidence Intervals)
   * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
