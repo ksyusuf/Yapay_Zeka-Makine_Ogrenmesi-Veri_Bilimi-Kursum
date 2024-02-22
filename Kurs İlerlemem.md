@@ -49,6 +49,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Poisson dağılımına giriş yapıldı ~ 15. ders 17.02.2024* :white_check_mark:
   * Merkezi Limit Teoremi
   * Güven Aralıkları (Confidence Intervals)
+ 
+* :red_circle: *Sonraki bölüme giriş yapıldı ~ 16. ders 18.02.2024* :white_check_mark:
   * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
 
 * __Verilerin Kullanıma Hazır Hale Getirilmesi Süreci__
