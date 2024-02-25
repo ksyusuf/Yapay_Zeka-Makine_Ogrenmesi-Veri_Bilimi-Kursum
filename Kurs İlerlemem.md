@@ -51,6 +51,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Güven Aralıkları (Confidence Intervals)
  
 * :red_circle: *Sonraki bölüme giriş yapıldı ~ 16. ders 18.02.2024* :white_check_mark:
+* :red_circle: *Ana kütle parametrelerinin tahmin edilmesi işlendi ~ 17. ders 24.02.2024* :white_check_mark:
   * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
 
 * __Verilerin Kullanıma Hazır Hale Getirilmesi Süreci__
