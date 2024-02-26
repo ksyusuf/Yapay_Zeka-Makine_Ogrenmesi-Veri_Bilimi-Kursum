@@ -58,6 +58,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 
   * Veri Kümelerinin Dosyalardan Okunması
   * CSV Formatı ve Çeşitli Diyalekleri
+* :red_circle: *Kısım tamamlandı ~ 18. ders 25.02.2024* :white_check_mark:
   * Veri Kümelerinin Veritabanlarından Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
   * One Hot Encoding Dönüştürmesi
