@@ -59,12 +59,14 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Veri Kümelerinin Dosyalardan Okunması
   * CSV Formatı ve Çeşitli Diyalekleri
 * :white_check_mark: *Kısım tamamlandı ~ 18. ders 25.02.2024* :white_check_mark:
+  * Eksik Veriler Üzerinde İşlemler
+  * Eksik Verilerin Veri Kümesinden Çıkartılması
+* :red_circle: *scikit-learn ile imputation işlemine giriş yapıldı ~ 19. ders 02.03.2024* :white_check_mark:
+  * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
   * Veri Kümelerinin Veritabanlarından Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
   * One Hot Encoding Dönüştürmesi
-  * Eksik Veriler Üzerinde İşlemler
-  * Eksik Verilerin Veri Kümesinden Çıkartılması
-  * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
+
   * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği
   * Verilerin Çoğaltılması (Data Augmentation)
   
