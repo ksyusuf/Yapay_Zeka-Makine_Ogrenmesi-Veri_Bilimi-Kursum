@@ -65,9 +65,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
   * Veri Kümelerinin Veritabanlarından Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
-* :white_check_mark: *Kısım tamamlandı ~ 18. ders 25.02.2024* :white_check_mark:
+* :white_check_mark: *Kısım tamamlandı ~ 20. ders 03.03.2024* :white_check_mark:
+* :red_circle: *One Hot Encoding'in diğer kütüphaneler ile yapılması işleniyor ~ 21. ders 09.03.2024* :white_check_mark:
   * One Hot Encoding Dönüştürmesi
-
   * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği
   * Verilerin Çoğaltılması (Data Augmentation)
   
