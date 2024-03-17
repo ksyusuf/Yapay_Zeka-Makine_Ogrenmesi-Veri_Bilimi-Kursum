@@ -58,18 +58,20 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 
   * Veri Kümelerinin Dosyalardan Okunması
   * CSV Formatı ve Çeşitli Diyalekleri
-* :white_check_mark: *Kısım tamamlandı ~ 18. ders 25.02.2024* :white_check_mark:
+* :white_check_mark: *Kısmın tamamlanması ~ 18. ders 25.02.2024* :white_check_mark:
   * Eksik Veriler Üzerinde İşlemler
   * Eksik Verilerin Veri Kümesinden Çıkartılması
 * :red_circle: *scikit-learn ile imputation işlemine giriş yapıldı ~ 19. ders 02.03.2024* :white_check_mark:
   * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
   * Veri Kümelerinin Veritabanlarından Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
-* :white_check_mark: *Kısım tamamlandı ~ 20. ders 03.03.2024* :white_check_mark:
+* :white_check_mark: *Kısmın tamamlanması ~ 20. ders 03.03.2024* :white_check_mark:
 * :red_circle: *One Hot Encoding'in diğer kütüphaneler ile yapılması işleniyor ~ 21. ders 09.03.2024* :white_check_mark:
   * One Hot Encoding Dönüştürmesi
   * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği
   * Verilerin Çoğaltılması (Data Augmentation)
+ 
+:white_check_mark: *Bölümün tamamlanması ~ 22. ders 10.03.2024* :white_check_mark:
   
 * __Yapay Sinir Ağları__
 
@@ -82,6 +84,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağlarının Tarihsel Gelişimi
   * Yapay Sinir Ağlarının Uygulama Alanları
   * Yapay Nöron Modeli
+* :red_circle: *Yapay sinir ağları katsayılarına ve regresyon modellerine değinildi ~ 23. ders 16.03.2024* :white_check_mark:
   * Yapay Bir Nöronun Python'da Sınıfsal Temsili
   * Aktivasyon Fonksiyonları ve Nöron Bağlantıları
   * Yapay Sinir Ağlarında Katmanlar
