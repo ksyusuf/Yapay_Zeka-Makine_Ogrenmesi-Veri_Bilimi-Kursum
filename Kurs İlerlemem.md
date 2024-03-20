@@ -90,6 +90,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağlarında Katmanlar
   * Yapay Sinir Ağlarında Yaygın Kullanılan Kütüphaneler ve Framework'ler
   * Yapay Sinir Ağlarında Veri Kümeleri (Eğitim Veri Kümesi, Sınama Veri Kümesi ve Test Veri Kümesi)
+* :white_check_mark: *Kısmın tamamlanması ~ 24. ders 17.02.2024* :white_check_mark:
   * Keras Kütüphanesinin Kısa Tarihi
   * Keras Kütüphanesinin Kurulumu
   * Yapay Sinir Ağlarının Keras Kütüphanesi İle Yüksek Seviyeli Biçimde Oluşturulması
