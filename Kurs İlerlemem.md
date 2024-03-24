@@ -95,6 +95,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Keras Kütüphanesinin Kurulumu
   * Yapay Sinir Ağlarının Keras Kütüphanesi İle Yüksek Seviyeli Biçimde Oluşturulması
   * Girdi Katmanlarının, Ara Katmanların ve Çıktı Katmanlarının Oluşturulması
+* :white_check_mark: *Kısmın tamamlanması ~ 25. ders 23.03.2024* :white_check_mark:
   * Loss Fonksiyonlarının Anlamı ve Çok Kullanılan Loss Fonksiyonları
   * Optimizasyon Algoritmalarının Anlamı ve Çok Kullanılan Optimizasyon Algoritmaları
   * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
