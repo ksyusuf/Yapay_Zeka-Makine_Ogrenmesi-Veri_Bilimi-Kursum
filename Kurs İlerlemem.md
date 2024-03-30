@@ -101,6 +101,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
   * Epoch ve Batch Kavramları
   * Sınama (Validation) İşleminin Anlamı
+* :white_check_mark: *Kısmın tamamlanması - ilk fit çalışması yapıldı ~ 26. ders 24.03.2024* :white_check_mark:
   * Test Veri Kümesi ile Yapay Sinir Ağı Modelinin Test Edilmesi
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
   * Keras'ta Callback Mekanizması
