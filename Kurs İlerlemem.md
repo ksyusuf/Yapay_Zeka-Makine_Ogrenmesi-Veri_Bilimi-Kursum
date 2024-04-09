@@ -104,6 +104,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :white_check_mark: *Kısmın tamamlanması - ilk fit çalışması yapıldı ~ 26. ders 24.03.2024* :white_check_mark:
 * :red_circle: *Predict konusuna giriş yapıldı ~ 27. ders 30.03.2024* :white_check_mark:
   * Test Veri Kümesi ile Yapay Sinir Ağı Modelinin Test Edilmesi
+* :red_circle: *Bazı aktivasyon fonksiyonlarının grafik çizimi yapılıyor ~ 28. ders 06.04.2024* :white_check_mark:
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
   * Keras'ta Callback Mekanizması
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
