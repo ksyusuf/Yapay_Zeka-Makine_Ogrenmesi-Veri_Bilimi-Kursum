@@ -106,6 +106,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Test Veri Kümesi ile Yapay Sinir Ağı Modelinin Test Edilmesi
 * :red_circle: *Bazı aktivasyon fonksiyonlarının grafik çizimi yapılıyor ~ 28. ders 06.04.2024* :white_check_mark:
 * :red_circle: *CCE loss fonksiyonuna giriş yapıldı ~ 29. ders 07.04.2024* :white_check_mark:
+* :candy: *Ramazan bayramı haftası dersimiz yok ~~13/14.04.2024~~* :candy:
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
   * Keras'ta Callback Mekanizması
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
