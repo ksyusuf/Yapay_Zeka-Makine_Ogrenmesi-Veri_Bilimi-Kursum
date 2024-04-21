@@ -107,6 +107,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Bazı aktivasyon fonksiyonlarının grafik çizimi yapılıyor ~ 28. ders 06.04.2024* :white_check_mark:
 * :red_circle: *CCE loss fonksiyonuna giriş yapıldı ~ 29. ders 07.04.2024* :white_check_mark:
 * :candy: *Ramazan bayramı haftası dersimiz yok ~~13/14.04.2024~~* :candy:
+* :red_circle: *Modelin kaydedilmesi ve geri yüklenmesi büyük oranda işlendi ~ 30. ders 20.04.2024* :white_check_mark:
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
   * Keras'ta Callback Mekanizması
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
