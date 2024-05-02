@@ -112,6 +112,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Callback içerisindeki CSVLogger sınıfına değinildi ~ 31. ders 21.04.2024* :white_check_mark:
   * Keras'ta Callback Mekanizması
 * :red_circle: *Özellik ölçeklemesi konusua giriş yapıldı ~ 32. ders 27.04.2024* :white_check_mark:
+* :red_circle: *MaxAbsScaler ölçeklemesine giriş yapıldı ~ 33. ders 28.04.2024* :white_check_mark:
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
   * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
   * Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
