@@ -113,7 +113,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Keras'ta Callback Mekanizması
 * :red_circle: *Özellik ölçeklemesi konusua giriş yapıldı ~ 32. ders 27.04.2024* :white_check_mark:
 * :red_circle: *MaxAbsScaler ölçeklemesine giriş yapıldı ~ 33. ders 28.04.2024* :white_check_mark:
-  * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
+  * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling)
+* :red_circle: *Lojistik Olmayan Regresyon Modellerine giriş yapıldı ~ 34. ders 04.05.2024* :white_check_mark:
   * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
   * Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
   * Yapay Sinir Ağlarıyla Sınıflandırma (Lojistik Regresyon) Problemleri
