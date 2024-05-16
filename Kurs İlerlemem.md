@@ -63,8 +63,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Eksik Verilerin Veri Kümesinden Çıkartılması
 * :red_circle: *scikit-learn ile imputation işlemine giriş yapıldı ~ 19. ders 02.03.2024* :white_check_mark:
   * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
-  * Veri Kümelerinin Veritabanlarından Okunması
-  * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
+  * :no_entry_sign: Veri Kümelerinin Veritabanlarından Okunması
+  * :no_entry_sign: Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
 * :white_check_mark: *Kısmın tamamlanması ~ 20. ders 03.03.2024* :white_check_mark:
 * :red_circle: *One Hot Encoding'in diğer kütüphaneler ile yapılması işleniyor ~ 21. ders 09.03.2024* :white_check_mark:
   * One Hot Encoding Dönüştürmesi
@@ -115,10 +115,11 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *MaxAbsScaler ölçeklemesine giriş yapıldı ~ 33. ders 28.04.2024* :white_check_mark:
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling)
 * :red_circle: *Lojistik Olmayan Regresyon Modellerine giriş yapıldı ~ 34. ders 04.05.2024* :white_check_mark:
-  * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
-  * Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
-  * Yapay Sinir Ağlarıyla Sınıflandırma (Lojistik Regresyon) Problemleri
-  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri
+  * :no_entry_sign: Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
+  * :no_entry_sign: Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
+  * :no_entry_sign: Yapay Sinir Ağlarıyla Sınıflandırma (Lojistik Regresyon) Problemleri
+  * :no_entry_sign: Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri,
+* :red_circle: *Lojistik Olmayan Regresyon devamı ve kestirim örneği ~ 35. ders 05.05.2024* :white_check_mark:
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
   * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
   * Keras'ta Evrişimsel Sinir Ağları ile İşlemler
