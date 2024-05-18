@@ -121,6 +121,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri,
 * :red_circle: *Lojistik Olmayan Regresyon devamı ve kestirim örneği ~ 35. ders 05.05.2024* :white_check_mark:
 * :red_circle: *Boston Housing Price veri setine giriş ~ 36. ders 11.05.2024* :white_check_mark:
+* :white_check_mark: *Boston Housing Price makine öğrenimi modeli tamamlandı ~ 37. ders 12.05.2024* :white_check_mark:
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
   * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
   * Keras'ta Evrişimsel Sinir Ağları ile İşlemler
