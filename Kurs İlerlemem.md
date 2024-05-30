@@ -125,21 +125,22 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
 * :white_check_mark: *Irıs.csv ile Multi-Class model çalışması yapıldı ~ 38. ders 18.05.2024* :white_check_mark:
 * :tr: *19 Mayıs günü dersimiz yok ~~19.05.2024~~* :tr:
-  * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
-  * Keras'ta Evrişimsel Sinir Ağları ile İşlemler
-  * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
-  * Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
-  * Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
-  * Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
-  * Çift Yönlü LSTM Katmanları
-  * Geri Beslemeli Sinir Ağlarının Kestirimde Kullanılmaları
-  * Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
-  * Öğrenimin Aktarılması Sürecinin (Transfer Learning) Temelleri
-  * Autoencoder Modelleri
-  * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
+  * :no_entry_sign: Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
+  * :no_entry_sign: Keras'ta Evrişimsel Sinir Ağları ile İşlemler
+  * :no_entry_sign: Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
+  * :no_entry_sign: Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
+  * :no_entry_sign: Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
+  * :no_entry_sign: Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
+  * :no_entry_sign: Çift Yönlü LSTM Katmanları
+  * :no_entry_sign: Geri Beslemeli Sinir Ağlarının Kestirimde Kullanılmaları
+  * :no_entry_sign: Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
+  * :no_entry_sign: Öğrenimin Aktarılması Sürecinin (Transfer Learning) Temelleri
+  * :no_entry_sign: Autoencoder Modelleri
+  * :no_entry_sign: Keras Modellerinin Fonksiyonel Olarak Oluşturulması
 
 * __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
 
+* :red_circle: *Keras içerisindeki Irıs.csv örneği yapıldı ve Sentiment Analysis giriş yapıldı ~ 39. ders 25.05.2024* :white_check_mark:
   * Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
