@@ -141,6 +141,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
 
 * :red_circle: *Keras içerisindeki Irıs.csv örneği yapıldı ve Sentiment Analysis giriş yapıldı ~ 39. ders 25.05.2024* :white_check_mark:
+* :white_check_mark: *IMDB.csv üzerinden yorum türü algılama modeli geliştirildi ve tahminleme yapıldı ~ 40. ders 26.05.2024* :white_check_mark:
   * Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
