@@ -142,6 +142,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 
 * :red_circle: *Keras içerisindeki Irıs.csv örneği yapıldı ve Sentiment Analysis giriş yapıldı ~ 39. ders 25.05.2024* :white_check_mark:
 * :white_check_mark: *IMDB.csv üzerinden yorum türü algılama modeli geliştirildi ve tahminleme yapıldı ~ 40. ders 26.05.2024* :white_check_mark:
+* :red_circle: *Keras içerisindeki IMDB veri seti üzerinden model geliştirilmesi yapıldı ~ 41. ders 01.06.2024* :white_check_mark:
   * Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
