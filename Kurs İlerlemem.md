@@ -145,6 +145,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Keras içerisindeki IMDB veri seti üzerinden model geliştirilmesi yapıldı ~ 41. ders 01.06.2024* :white_check_mark:
 * :red_circle: *Reuters veri kümesi ile model geliştirilmesi ~ 42. ders 02.06.2024* :white_check_mark:
 * :red_circle: *Keras.Reuters veri kümesi ile model geliştirildi. Parçalı Eğitim konusuna giriş yapıldı. ~ 43. ders 08.06.2024* :white_check_mark:
+* :red_circle: *Parçalı Eğitim devamı ve Generators kullanımı. ~ 44. ders 09.06.2024* :white_check_mark:
+* :cow2: *Kurban bayramı haftası dersimiz yok ~~15/16.06.2024~~* :cow2:
+* :airplane: *Bayram haftası devamı dersimiz yok ~~22/23.06.2024~~* :airplane:
   * Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
