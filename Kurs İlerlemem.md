@@ -149,6 +149,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :cow2: *Kurban bayramı haftası dersimiz yok ~~15/16.06.2024~~* :cow2:
 * :airplane: *Bayram haftası devamı dersimiz yok ~~22/23.06.2024~~* :airplane:
 * :red_circle: *Parçalı Eğitim devamı ve Vectorization ~ 45. ders 29.06.2024* :white_check_mark:
+* :red_circle: *Parçalı Eğitim devamı, Generators fonksiyon ile fit işlemi için imdb.csv düzenlenmesi. ~ 46. ders 30.06.2024* :white_check_mark:
   * Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
