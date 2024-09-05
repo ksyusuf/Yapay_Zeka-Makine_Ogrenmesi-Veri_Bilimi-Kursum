@@ -152,6 +152,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Parçalı Eğitim devamı, Generators fonksiyon ile fit işlemi için imdb.csv düzenlenmesi. ~ 46. ders 30.06.2024* :white_check_mark:
 * :white_check_mark: *Parçalı Eğitim devamı, Generators fonksiyon ile eğitim konusu tamam. ~ 47. ders 06.07.2024* :white_check_mark:
 * :red_circle: *Parçalı Eğitimde PyDataset Sınıfsal metoduna giriş yapıldı. ~ 48. ders 07.07.2024* :white_check_mark:
+* :red_circle: *Parçalı Eğitim train_on_batch, test_on_batch ve predict_on_batch konularına geçildi. ~ 49. ders 13.07.2024* :white_check_mark:
   * Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
