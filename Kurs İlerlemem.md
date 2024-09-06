@@ -163,6 +163,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   
 * __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
+* :red_circle: *Resim İşleme konusuna giriş yapıldı. Matplotlib giriş yapıldı.~ 52. ders 21.07.2024* :white_check_mark:
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
   * Konuşma Verilerinde Sınıflandırma İşlemleri
   * İşitsel ve Görsel Verilerin Çoğaltılması (Data Augmentation)
