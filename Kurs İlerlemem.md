@@ -165,7 +165,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Resim İşleme konusuna giriş yapıldı. Matplotlib giriş yapıldı.~ 52. ders 21.07.2024* :white_check_mark:
 * :white_check_mark: *Resim İşleme MNIST ile örnek çalışma yapıldı.~ 53. ders 27.07.2024* :white_check_mark:
 * :red_circle: *CNN giriş yapıldı.~ 54. ders 28.07.2024* :white_check_mark:
-  * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
+  * Yapay Sinir Ağlarında Evrişim (CNN) (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
+* :white_check_mark: *CNN çalışmaları tamam. Pooling kavramı anlatıldı.~ 55. ders 03.08.2024* :white_check_mark:
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
   * Konuşma Verilerinde Sınıflandırma İşlemleri
   * İşitsel ve Görsel Verilerin Çoğaltılması (Data Augmentation)
