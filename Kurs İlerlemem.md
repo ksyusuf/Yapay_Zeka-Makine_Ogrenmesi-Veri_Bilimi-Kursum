@@ -125,7 +125,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
 * :white_check_mark: *Irıs.csv ile Multi-Class model çalışması yapıldı ~ 38. ders 18.05.2024* :white_check_mark:
 * :tr: *19 Mayıs günü dersimiz yok ~~19.05.2024~~* :tr:
-  * :no_entry_sign: Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
   * :no_entry_sign: Keras'ta Evrişimsel Sinir Ağları ile İşlemler
   * :no_entry_sign: Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
   * :no_entry_sign: Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
@@ -164,6 +163,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
 * :red_circle: *Resim İşleme konusuna giriş yapıldı. Matplotlib giriş yapıldı.~ 52. ders 21.07.2024* :white_check_mark:
+* :white_check_mark: *Resim İşleme MNIST ile örnek çalışma yapıldı.~ 53. ders 27.07.2024* :white_check_mark:
+* :red_circle: *CNN giriş yapıldı.~ 54. ders 28.07.2024* :white_check_mark:
+  * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
   * Konuşma Verilerinde Sınıflandırma İşlemleri
   * İşitsel ve Görsel Verilerin Çoğaltılması (Data Augmentation)
