@@ -152,7 +152,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :white_check_mark: *Parçalı Eğitim devamı, Generators fonksiyon ile eğitim konusu tamam. ~ 47. ders 06.07.2024* :white_check_mark:
 * :red_circle: *Parçalı Eğitimde PyDataset Sınıfsal metoduna giriş yapıldı. ~ 48. ders 07.07.2024* :white_check_mark:
 * :red_circle: *Parçalı Eğitim train_on_batch, test_on_batch ve predict_on_batch konularına geçildi. ~ 49. ders 13.07.2024* :white_check_mark:
-* :red_circle: *Sparse matris konusuna geçildi. DOK, LIL, CSR ve CSC konusu işlendi.~ 50. ders 14.07.2024* :white_check_mark:
+* :red_circle: *Sparse matris konusuna geçildi. DOK, LIL, CSR ve CSC konusu işlendi. ~ 50. ders 14.07.2024* :white_check_mark:
 * :white_check_mark: *Sparse matris konusu tamamlandı~ 51. ders 15.07.2024* :white_check_mark:
   * :no_entry_sign: Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
   * :no_entry_sign: Metinsel Verilerde Word Embedding İşlemleri
@@ -162,19 +162,20 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   
 * __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
-* :red_circle: *Resim İşleme konusuna giriş yapıldı. Matplotlib giriş yapıldı.~ 52. ders 21.07.2024* :white_check_mark:
-* :white_check_mark: *Resim İşleme MNIST ile örnek çalışma yapıldı.~ 53. ders 27.07.2024* :white_check_mark:
-* :red_circle: *CNN giriş yapıldı.~ 54. ders 28.07.2024* :white_check_mark:
+* :red_circle: *Resim İşleme konusuna giriş yapıldı. Matplotlib giriş yapıldı. ~ 52. ders 21.07.2024* :white_check_mark:
+* :white_check_mark: *Resim İşleme MNIST ile örnek çalışma yapıldı. ~ 53. ders 27.07.2024* :white_check_mark:
+* :red_circle: *CNN giriş yapıldı. ~ 54. ders 28.07.2024* :white_check_mark:
   * Yapay Sinir Ağlarında Evrişim (CNN) (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
-* :white_check_mark: *CNN çalışmaları tamam. Pooling kavramı anlatıldı.~ 55. ders 03.08.2024* :white_check_mark:
-  * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
-  * Konuşma Verilerinde Sınıflandırma İşlemleri
-  * İşitsel ve Görsel Verilerin Çoğaltılması (Data Augmentation)
-  * Yüz Tanıma İşlemleri
-  * Resimlerin Sınıflandırılması
-  * Hareketli Görüntü Verileri Üzerinde İşlemler
+* :white_check_mark: *CNN çalışmaları tamam. Pooling kavramı anlatıldı. ~ 55. ders 03.08.2024* :white_check_mark:
+  * :no_entry_sign: Konuşma Kayıtlarına İlişkin Verilerle Çalışma
+  * :no_entry_sign: Konuşma Verilerinde Sınıflandırma İşlemleri
+  * :no_entry_sign: İşitsel ve Görsel Verilerin Çoğaltılması (Data Augmentation)
+  * :no_entry_sign: Yüz Tanıma İşlemleri
+  * :no_entry_sign: Resimlerin Sınıflandırılması
+  * :no_entry_sign: Hareketli Görüntü Verileri Üzerinde İşlemler
   * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
+* :red_circle: *CIFAR10 Veri seti ile örnek çalışma yapıldı. ~ 56. ders 28.07.2024* :white_check_mark:
   * Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
