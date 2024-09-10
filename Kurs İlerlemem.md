@@ -176,6 +176,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
 * :red_circle: *CIFAR10 Veri seti ile örnek çalışma yapıldı. ~ 56. ders 28.07.2024* :white_check_mark:
+* :red_circle: *CIFAR100 Veri seti ile örnek çalışma yapıldı pred. accuracy: 0,52 ulaşıldı. ~ 57. ders 10.08.2024* :white_check_mark:
   * Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
