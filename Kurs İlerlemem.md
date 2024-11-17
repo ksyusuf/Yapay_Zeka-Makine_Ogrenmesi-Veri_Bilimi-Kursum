@@ -179,6 +179,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *CIFAR100 Veri seti ile örnek çalışma yapıldı pred. accuracy: 0,52 ulaşıldı. ~ 57. ders 10.08.2024* :white_check_mark:
 * :red_circle: *Data Augmentation konusuna giriş yapıldı. ~ 58. ders 11.08.2024* :red_circle:
 * :x: *Ders iptal ~ ~~17.08.2024~~* :x:
+* :red_circle: *Data Augmentation -> image_dataset_from_directory sınıfına giriş yapıldı. ~ 59. ders 18.08.2024* :red_circle:
+* :x: *Kursun genel 2 haftalık tatili. ~~24/25/31.08 / 01.09 2024~~* :x:
   * Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
