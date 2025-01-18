@@ -181,6 +181,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :x: *Ders iptal ~ ~~17.08.2024~~* :x:
 * :red_circle: *Data Augmentation -> image_dataset_from_directory sınıfına giriş yapıldı. ~ 59. ders 18.08.2024* :red_circle:
 * :cocktail: *Kursun genel 2 haftalık tatili. ~~24/25/31.08 / 01.09 2024~~* :sunny:
+* :red_circle: *EarlyStopping işlendi. ModelCheckpoint metoduna giriş yapıldı. ~ 60. ders 07.09.2025* :red_circle:
   * Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
