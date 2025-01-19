@@ -183,6 +183,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :cocktail: *Kursun genel 2 haftalık tatili. ~~24/25/31.08 / 01.09 2024~~* :sunny:
 * :red_circle: *EarlyStopping işlendi. ModelCheckpoint metoduna giriş yapıldı. ~ 60. ders 07.09.2025* :white_check_mark:
 * :red_circle: *Transfer Learning ve Meta Programming konularına giriş yapıldı. ~ 61. ders 08.09.2025* :red_circle:
+* :red_circle: *Fonksiyonel modellemeye giriş yapıldı, random üretilen veri üzerinden örnek yapılıyor. ~ 62. ders 14.09.2025* :red_circle:
   * Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
