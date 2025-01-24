@@ -155,7 +155,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Sparse matris konusuna geçildi. DOK, LIL, CSR ve CSC konusu işlendi. ~ 50. ders 14.07.2024* :white_check_mark:
 * :white_check_mark: *Sparse matris konusu tamamlandı~ 51. ders 15.07.2024* :white_check_mark:
   * :no_entry_sign: Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
-  * :no_entry_sign: Metinsel Verilerde Word Embedding İşlemleri
+
   * :no_entry_sign: Metinlerin İçeriğe Göre Sınıflandırılması
   * :no_entry_sign: Metinlerden Anlam Çıkarılması
   * :no_entry_sign: Metinsel İşlemlerde Öğrenimin Aktarılması
@@ -181,11 +181,14 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :x: *Ders iptal ~ ~~17.08.2024~~* :x:
 * :red_circle: *Data Augmentation -> image_dataset_from_directory sınıfına giriş yapıldı. ~ 59. ders 18.08.2024* :red_circle:
 * :cocktail: *Kursun genel 2 haftalık tatili. ~~24/25/31.08 / 01.09 2024~~* :sunny:
-* :red_circle: *EarlyStopping işlendi. ModelCheckpoint metoduna giriş yapıldı. ~ 60. ders 07.09.2025* :white_check_mark:
-* :red_circle: *Transfer Learning ve Meta Programming konularına giriş yapıldı. ~ 61. ders 08.09.2025* :red_circle:
-* :red_circle: *Fonksiyonel modellemeye giriş yapıldı, random üretilen veri üzerinden örnek yapılıyor. ~ 62. ders 14.09.2025* :red_circle:
+* :red_circle: *EarlyStopping işlendi. ModelCheckpoint metoduna giriş yapıldı. ~ 60. ders 07.09.2024* :white_check_mark:
+* :red_circle: *Transfer Learning ve Meta Programming konularına giriş yapıldı. ~ 61. ders 08.09.2024* :red_circle:
+* :red_circle: *Fonksiyonel modellemeye giriş yapıldı, random üretilen veri üzerinden örnek yapılıyor. ~ 62. ders 14.09.2024* :red_circle:
   * :no_entry_sign: Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
-* :white_check_mark: *Çok çıkışlı modeller işlendi. Hazır örnek üzerinden anlatıldı. ~ 63. ders 15.09.2025* :white_check_mark:
+* :white_check_mark: *Çok çıkışlı modeller işlendi. Hazır örnek üzerinden anlatıldı. ~ 63. ders 15.09.2024* :white_check_mark:
+* :red_circle: *Word Embedding konusuna giriş yapıldı, konu anlatımı. ~ 64. ders 21.09.2024* :red_circle:
+* :red_circle: *Text Vectorization alternatif örneği ve word embedding 2D visual representation. ~ 65. ders 22.09.2024* :red_circle:
+  * Metinsel Verilerde Word Embedding İşlemleri
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
