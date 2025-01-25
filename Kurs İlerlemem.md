@@ -188,6 +188,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :white_check_mark: *Çok çıkışlı modeller işlendi. Hazır örnek üzerinden anlatıldı. ~ 63. ders 15.09.2024* :white_check_mark:
 * :red_circle: *Word Embedding konusuna giriş yapıldı, konu anlatımı. ~ 64. ders 21.09.2024* :red_circle:
 * :red_circle: *Text Vectorization alternatif örneği ve word embedding 2D visual representation. ~ 65. ders 22.09.2024* :red_circle:
+* :red_circle: * FastText hazır vektör örneği yapıldı ve TextVectorization burada çok başarılı olmadı. ~ 66. ders 28.09.2024* :red_circle:
   * Metinsel Verilerde Word Embedding İşlemleri
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
