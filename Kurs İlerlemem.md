@@ -155,7 +155,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Sparse matris konusuna geçildi. DOK, LIL, CSR ve CSC konusu işlendi. ~ 50. ders 14.07.2024* :white_check_mark:
 * :white_check_mark: *Sparse matris konusu tamamlandı~ 51. ders 15.07.2024* :white_check_mark:
   * :no_entry_sign: Metinler Üzerinde Ön İşlemler (Tokenizing, Stemming, Lemmatization, ...)
-
   * :no_entry_sign: Metinlerin İçeriğe Göre Sınıflandırılması
   * :no_entry_sign: Metinlerden Anlam Çıkarılması
   * :no_entry_sign: Metinsel İşlemlerde Öğrenimin Aktarılması
@@ -188,8 +187,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :white_check_mark: *Çok çıkışlı modeller işlendi. Hazır örnek üzerinden anlatıldı. ~ 63. ders 15.09.2024* :white_check_mark:
 * :red_circle: *Word Embedding konusuna giriş yapıldı, konu anlatımı. ~ 64. ders 21.09.2024* :red_circle:
 * :red_circle: *Text Vectorization alternatif örneği ve word embedding 2D visual representation. ~ 65. ders 22.09.2024* :red_circle:
-* :red_circle: * FastText hazır vektör örneği yapıldı ve TextVectorization burada çok başarılı olmadı. ~ 66. ders 28.09.2024* :red_circle:
+* :red_circle: *FastText hazır vektör örneği yapıldı ve TextVectorization burada çok başarılı olmadı. ~ 66. ders 28.09.2024* :red_circle:
   * Metinsel Verilerde Word Embedding İşlemleri
+* :red_circle: *Zaman Serileri konusuna giriş yapıldı. ~ 67. ders 29.09.2024* :red_circle:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
