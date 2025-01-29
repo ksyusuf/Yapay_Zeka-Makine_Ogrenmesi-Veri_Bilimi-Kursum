@@ -190,7 +190,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *FastText hazır vektör örneği yapıldı ve TextVectorization burada çok başarılı olmadı. ~ 66. ders 28.09.2024* :red_circle:
   * Metinsel Verilerde Word Embedding İşlemleri
 * :red_circle: *Zaman Serileri konusuna giriş yapıldı. ~ 67. ders 29.09.2024* :red_circle:
-* :red_circle: *Pooling ve GlobalPooling ile ilgili düzeltmeler ve açıklamalar. ~ 68. ders 05.10.2024* :red_circle:
+* :red_circle: *Pooling ve GlobalPooling ile ilgili düzeltmeler ve açıklamalar. ~ 68. ders 05.10.2024* :white_check_mark:
+* :red_circle: *Jena Climate ile zaman serisi anlatımına devam ediliyor. ~ 69. ders 06.10.2024* :red_circle:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
