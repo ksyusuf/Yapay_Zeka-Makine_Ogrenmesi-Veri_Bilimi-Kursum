@@ -127,7 +127,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :tr: *19 Mayıs günü dersimiz yok ~~19.05.2024~~* :tr:
   * :no_entry_sign: Keras'ta Evrişimsel Sinir Ağları ile İşlemler
   * :no_entry_sign: Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
-  * :no_entry_sign: Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
   * :no_entry_sign: Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
   * :no_entry_sign: Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
   * :no_entry_sign: Çift Yönlü LSTM Katmanları
@@ -180,6 +179,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :x: *Ders iptal ~ ~~17.08.2024~~* :x:
 * :red_circle: *Data Augmentation -> image_dataset_from_directory sınıfına giriş yapıldı. ~ 59. ders 18.08.2024* :red_circle:
 * :cocktail: *Kursun genel 2 haftalık tatili. ~~24/25/31.08 / 01.09 2024~~* :sunny:
+  * Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
 * :red_circle: *EarlyStopping işlendi. ModelCheckpoint metoduna giriş yapıldı. ~ 60. ders 07.09.2024* :white_check_mark:
 * :red_circle: *Transfer Learning ve Meta Programming konularına giriş yapıldı. ~ 61. ders 08.09.2024* :red_circle:
 * :red_circle: *Fonksiyonel modellemeye giriş yapıldı, random üretilen veri üzerinden örnek yapılıyor. ~ 62. ders 14.09.2024* :red_circle:
@@ -193,6 +193,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :white_check_mark: *Pooling ve GlobalPooling ile ilgili düzeltmeler ve açıklamalar. ~ 68. ders 05.10.2024* :white_check_mark:
 * :red_circle: *Jena Climate ile zaman serisi anlatımına devam ediliyor. ~ 69. ders 06.10.2024* :red_circle:
 * :red_circle: *Jena Climate ile zaman serisi modeli geliştirildi. ~ 70. ders 12.10.2024* :white_check_mark:
+* :red_circle: *Zaman serisi model örneği tamamlandı. Recurrent Neural Network (RNN) konusuna giriş yapıldı. ~ 71. ders 13.10.2024* :white_check_mark:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
