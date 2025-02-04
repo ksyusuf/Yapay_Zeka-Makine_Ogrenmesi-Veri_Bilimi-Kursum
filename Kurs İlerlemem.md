@@ -115,7 +115,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *MaxAbsScaler ölçeklemesine giriş yapıldı ~ 33. ders 28.04.2024* :white_check_mark:
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling)
 * :red_circle: *Lojistik Olmayan Regresyon Modellerine giriş yapıldı ~ 34. ders 04.05.2024* :white_check_mark:
-  * :no_entry_sign: Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
   * :no_entry_sign: Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
   * :no_entry_sign: Yapay Sinir Ağlarıyla Sınıflandırma (Lojistik Regresyon) Problemleri
   * :no_entry_sign: Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri,
@@ -125,13 +124,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
 * :white_check_mark: *Irıs.csv ile Multi-Class model çalışması yapıldı ~ 38. ders 18.05.2024* :white_check_mark:
 * :tr: *19 Mayıs günü dersimiz yok ~~19.05.2024~~* :tr:
-  * :no_entry_sign: Keras'ta Evrişimsel Sinir Ağları ile İşlemler
-  * :no_entry_sign: Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
-  * :no_entry_sign: Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
   * :no_entry_sign: Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
   * :no_entry_sign: Çift Yönlü LSTM Katmanları
   * :no_entry_sign: Geri Beslemeli Sinir Ağlarının Kestirimde Kullanılmaları
-  * :no_entry_sign: Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
   * :no_entry_sign: Öğrenimin Aktarılması Sürecinin (Transfer Learning) Temelleri
   * :no_entry_sign: Autoencoder Modelleri
   * :no_entry_sign: Keras Modellerinin Fonksiyonel Olarak Oluşturulması
@@ -194,6 +189,13 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Jena Climate ile zaman serisi anlatımına devam ediliyor. ~ 69. ders 06.10.2024* :red_circle:
 * :red_circle: *Jena Climate ile zaman serisi modeli geliştirildi. ~ 70. ders 12.10.2024* :white_check_mark:
 * :red_circle: *Zaman serisi model örneği tamamlandı. Recurrent Neural Network (RNN) konusuna giriş yapıldı. ~ 71. ders 13.10.2024* :white_check_mark:
+  * Keras'ta Evrişimsel Sinir Ağları ile İşlemler
+  * Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
+* :red_circle: *Jena Climate örneğini SimpleRNN katmanı ile yapıyoruz. ~ 72. ders 19.10.2024* :white_check_mark:
+  * Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
+  * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
+* :red_circle: *Regulation - Dropout konusuna giriş yapıldı. Imdb örneğini dropout ile yaptık. ~ 73. ders 20.10.2024* :white_check_mark:
+  * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
