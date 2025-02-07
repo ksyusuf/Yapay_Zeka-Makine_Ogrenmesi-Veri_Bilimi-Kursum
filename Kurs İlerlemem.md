@@ -126,8 +126,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :tr: *19 Mayıs günü dersimiz yok ~~19.05.2024~~* :tr:
   * :no_entry_sign: Geri Beslemeli Sinir Ağlarının Kestirimde Kullanılmaları
   * :no_entry_sign: Autoencoder Modelleri
-  * :no_entry_sign: Keras Modellerinin Fonksiyonel Olarak Oluşturulması
-
+ 
 * __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
 
 * :red_circle: *Keras içerisindeki Irıs.csv örneği yapıldı ve Sentiment Analysis giriş yapıldı ~ 39. ders 25.05.2024* :white_check_mark:
@@ -198,6 +197,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Çift Yönlü LSTM Katmanları
   * Öğrenimin Aktarılması Sürecinin (Transfer Learning) Temelleri
 * :red_circle: *GRU ve Bidirectional RNN anlatıldı. ~ 75. ders 27.10.2024* :white_check_mark:
+  * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
+* :red_circle: *Hazır modellerin kullanılması. ResNet ve DenseNet. ~ 76. ders 02.11.2024* :white_check_mark:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
