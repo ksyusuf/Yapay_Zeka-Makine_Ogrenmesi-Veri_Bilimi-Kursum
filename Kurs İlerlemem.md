@@ -199,6 +199,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *GRU ve Bidirectional RNN anlatıldı. ~ 75. ders 27.10.2024* :white_check_mark:
   * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
 * :red_circle: *Hazır modellerin kullanılması. ResNet ve DenseNet. ~ 76. ders 02.11.2024* :white_check_mark:
+* :red_circle: *Hazır modellerin kullanılması. KerasLayer - Tensorflow Hub - Kaggle. ~ 77. ders 03.11.2024* :white_check_mark:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
