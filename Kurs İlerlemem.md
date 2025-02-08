@@ -199,7 +199,16 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *GRU ve Bidirectional RNN anlatıldı. ~ 75. ders 27.10.2024* :white_check_mark:
   * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
 * :red_circle: *Hazır modellerin kullanılması. ResNet ve DenseNet. ~ 76. ders 02.11.2024* :white_check_mark:
-* :red_circle: *Hazır modellerin kullanılması. KerasLayer - Tensorflow Hub - Kaggle. ~ 77. ders 03.11.2024* :white_check_mark:
+* :white_check_mark: *Hazır modellerin kullanılması. KerasLayer - Tensorflow Hub - Kaggle. ~ 77. ders 03.11.2024* :white_check_mark:
+
+* __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
+  
+* :red_circle: *Datasets sınıf tekrarı ve Automated araçlardan AutoKeras giriş. ~ 78. ders 10.11.2024* :white_check_mark:
+  * AutoKeras Kütüphanesinin Kullanımı
+  * AutoSklearn Kütüphanesinin Kullanımı
+  * TPOT Kütüphanesinin Kullanımı
+    
+
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -375,12 +384,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * KFold Validation İşleminin Anlamı ve Uygulama Alanları
   * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
   * XGBoost Kütüphanesinin Kullanımı
-
-* __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
-
-  * AutoKeras Kütüphanesinin Kullanımı
-  * AutoSklearn Kütüphanesinin Kullanımı
-  * TPOT Kütüphanesinin Kullanımı
 
 * __Pekiştirmeli Öğrenme (Reinforcement Learning)__
 
