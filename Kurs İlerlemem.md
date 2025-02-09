@@ -204,6 +204,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
   
 * :red_circle: *Datasets sınıf tekrarı ve Automated araçlardan AutoKeras giriş. ~ 78. ders 10.11.2024* :white_check_mark:
+* :red_circle: *AutoKeras ImageClassifier - CIFAR100 örneğine başlandı ve sürüm işlemleri için uzun denemeler yapıldı. ~ 79. ders 16.11.2024* :red_circle:
   * AutoKeras Kütüphanesinin Kullanımı
   * AutoSklearn Kütüphanesinin Kullanımı
   * TPOT Kütüphanesinin Kullanımı
