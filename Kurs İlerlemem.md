@@ -205,6 +205,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   
 * :red_circle: *Datasets sınıf tekrarı ve Automated araçlardan AutoKeras giriş. ~ 78. ders 10.11.2024* :white_check_mark:
 * :red_circle: *AutoKeras ImageClassifier - CIFAR100 örneğine başlandı ve sürüm işlemleri için uzun denemeler yapıldı. ~ 79. ders 16.11.2024* :red_circle:
+* :red_circle: *AutoKeras ImageRegressor ve TextClassifier. ~ 80. ders 17.11.2024* :red_circle:
   * AutoKeras Kütüphanesinin Kullanımı
   * AutoSklearn Kütüphanesinin Kullanımı
   * TPOT Kütüphanesinin Kullanımı
