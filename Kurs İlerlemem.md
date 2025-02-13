@@ -209,10 +209,19 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *AutoKeras AutoModel ile titanic veri seti örneği. ~ 81. ders 23.11.2024* :red_circle:
 * :red_circle: *AutoKeras AutoModel fonksiyonel yapı ve DenseBlock nesnesi işlendi. ~ 82. ders 24.11.2024* :white_check_mark:
   * AutoKeras Kütüphanesinin Kullanımı
-  * AutoSklearn Kütüphanesinin Kullanımı
-  * TPOT Kütüphanesinin Kullanımı
-    
+  * :no_entry_sign: AutoSklearn Kütüphanesinin Kullanımı
+  * :no_entry_sign: TPOT Kütüphanesinin Kullanımı
 
+* __Denetimsiz Öğrenme (Unsupervised Learning)__
+  
+* :red_circle: *Kümeleme konusu giriş yapıldı. Euclidean (Öklid), Manhatten ve Hamming mesafeleri işlendi. ~ 83. ders 01.12.2024* :white_check_mark:
+
+  * Kümeleme (Clustering) İşlemleri
+  * K-Means Kümeleme Algoritması
+  * Hiyerarşik Kümeleme Algoritmaları
+  * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
+  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
+  * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -244,15 +253,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Theano Kütüphanesinin Kurulumu
   * Theano Kütüphanesinin Temel Özellikleri
   * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
-
-* __Denetimsiz Öğrenme (Unsupervised Learning)__
-
-  * Kümeleme (Clustering) İşlemleri
-  * K-Means Kümeleme Algoritması
-  * Hiyerarşik Kümeleme Algoritmaları
-  * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
-  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
-  * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
 
 * __Biraz Lineer Cebir__
 
