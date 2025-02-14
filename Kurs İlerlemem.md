@@ -215,8 +215,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * __Denetimsiz Öğrenme (Unsupervised Learning)__
   
 * :red_circle: *Kümeleme konusu giriş yapıldı. Euclidean (Öklid), Manhatten ve Hamming mesafeleri işlendi. ~ 83. ders 01.12.2024* :white_check_mark:
-
   * Kümeleme (Clustering) İşlemleri
+* :red_circle: *Cosinus Distance, Temel kümeleme algoritmaları ve K-Means algoritmasına giriş. ~ 84. ders 07.12.2024* :red_circle:
   * K-Means Kümeleme Algoritması
   * Hiyerarşik Kümeleme Algoritmaları
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
