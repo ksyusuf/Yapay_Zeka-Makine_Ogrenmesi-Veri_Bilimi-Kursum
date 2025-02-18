@@ -218,6 +218,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Kümeleme (Clustering) İşlemleri
 * :red_circle: *Cosinus Distance, Temel kümeleme algoritmaları ve K-Means algoritmasına giriş. ~ 84. ders 07.12.2024* :red_circle:
 * :red_circle: *Sklearn K-Means algoritması Irıs.csv örneği ve Dirsek (Elbow) Metodu. ~ 85. ders 08.12.2024* :red_circle:
+* :red_circle: *Sklearn silhouette_score() metodu anlatıldı. Diğer K-XXX tipi kümeleme metotlarına değinildi, K-Medoids. ~ 86. ders 14.12.2024* :red_circle:
+* :red_circle: *K-Modes, K-Medians anlatıldı. K-Prototypes konusuna giriş yapıldı. ~ 87. ders 15.12.2024* :red_circle:
   * K-Means Kümeleme Algoritması
   * Hiyerarşik Kümeleme Algoritmaları
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
