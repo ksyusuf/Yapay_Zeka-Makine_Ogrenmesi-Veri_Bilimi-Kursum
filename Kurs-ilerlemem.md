@@ -106,7 +106,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Test Veri Kümesi ile Yapay Sinir Ağı Modelinin Test Edilmesi
 * :red_circle: *Bazı aktivasyon fonksiyonlarının grafik çizimi yapılıyor ~ 28. ders 06.04.2024* :white_check_mark:
 * :red_circle: *CCE loss fonksiyonuna giriş yapıldı ~ 29. ders 07.04.2024* :white_check_mark:
-* :candy: *Ramazan bayramı haftası dersimiz yok ~~13/14.04.2024~~* :candy:
+* :candy: *Ramazan bayramı haftası dersimiz yok. ~ ~~13/14.04.2024~~* :candy:
 * :red_circle: *Modelin kaydedilmesi ve geri yüklenmesi büyük oranda işlendi ~ 30. ders 20.04.2024* :white_check_mark:
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi,
 * :red_circle: *Callback içerisindeki CSVLogger sınıfına değinildi ~ 31. ders 21.04.2024* :white_check_mark:
@@ -135,8 +135,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Reuters veri kümesi ile model geliştirilmesi ~ 42. ders 02.06.2024* :white_check_mark:
 * :red_circle: *Keras.Reuters veri kümesi ile model geliştirildi. Parçalı Eğitim konusuna giriş yapıldı. ~ 43. ders 08.06.2024* :white_check_mark:
 * :red_circle: *Parçalı Eğitim devamı ve Generators kullanımı. ~ 44. ders 09.06.2024* :white_check_mark:
-* :cow2: *Kurban bayramı haftası dersimiz yok ~~15/16.06.2024~~* :cow2:
-* :airplane: *Bayram haftası devamı dersimiz yok ~~22/23.06.2024~~* :airplane:
+* :cow2: *Kurban bayramı haftası dersimiz yok. ~ ~~15/16.06.2024~~* :cow2:
+* :airplane: *Bayram haftası devamı dersimiz yok. ~ ~~22/23.06.2024~~* :airplane:
 * :red_circle: *Parçalı Eğitim devamı ve Vectorization ~ 45. ders 29.06.2024* :white_check_mark:
 * :red_circle: *Parçalı Eğitim devamı, Generators fonksiyon ile fit işlemi için imdb.csv düzenlenmesi. ~ 46. ders 30.06.2024* :white_check_mark:
 * :white_check_mark: *Parçalı Eğitim devamı, Generators fonksiyon ile eğitim konusu tamam. ~ 47. ders 06.07.2024* :white_check_mark:
