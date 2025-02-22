@@ -222,7 +222,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Sklearn silhouette_score() metodu anlatıldı. Diğer K-XXX tipi kümeleme metotlarına değinildi, K-Medoids. ~ 86. ders 14.12.2024* :red_circle:
 * :red_circle: *K-Modes, K-Medians anlatıldı. K-Prototypes konusuna giriş yapıldı. ~ 87. ders 15.12.2024* :red_circle:
 * :red_circle: *K-Prototypes devam. MiniBatchKMeans konusuna giriş yapıldı. ~ 88. ders 21.12.2024* :white_check_mark:
-* :red_circle: *MiniBatchKMeans-partial örneği. MNIST için kümeleme giriş açıklamaası yapıldı. ~ 89. ders 22.12.2024* :red_circle:
+* :red_circle: *MiniBatchKMeans-partial örneği. MNIST için kümeleme giriş açıklaması yapıldı. ~ 89. ders 22.12.2024* :white_check_mark:
+* :x: *Yoğun istek üzerine ders yapılmadı. ~ ~~28/29.12.2024~~* :x:
+* :red_circle: *MNIST kümeleme örneği tamamlandı. Hiyerarşik Kümeleme konusuna giriş ve Agglomerative örneği yapıldı. ~ 90. ders 04.01.2025* :red_circle:
   * Hiyerarşik Kümeleme Algoritmaları
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
   * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
