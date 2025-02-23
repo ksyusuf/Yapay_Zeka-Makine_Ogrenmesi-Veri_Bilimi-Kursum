@@ -226,6 +226,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :x: *Yoğun istek üzerine ders yapılmadı. ~ ~~28/29.12.2024~~* :x:
 * :red_circle: *MNIST kümeleme örneği tamamlandı. Hiyerarşik Kümeleme konusuna giriş ve Agglomerative örneği yapıldı. ~ 90. ders 04.01.2025* :red_circle:
   * Hiyerarşik Kümeleme Algoritmaları
+* :red_circle: *make_blobs, make_classification ve make_circles. Örnek dendogram. Yoğunluk temelli kümeleme giriş. ~ 91. ders 05.01.2025* :white_check_mark:
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
   * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
   * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
