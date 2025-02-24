@@ -2,7 +2,7 @@
 Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 </h1>
 
-:red_circle: *Başlangıç ~ 1. ders: 23.12.2023* :red_circle:
+:red_circle: *Başlangıç ~ 1. ders 23.12.2023* :red_circle:
 
 * __Gözden Geçirme ve Hazırlık__
 
