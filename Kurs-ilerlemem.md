@@ -229,6 +229,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *make_blobs, make_classification ve make_circles. Örnek dendogram. Yoğunluk temelli kümeleme giriş. ~ 91. ders 05.01.2025* :white_check_mark:
 * :red_circle: *DBSCAN algoritma teorisi ve uygulaması yapıldı. ~ 92. ders 11.01.2025* :white_check_mark:
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
+* :red_circle: *OPTICS algoritma teorisi ve uygulaması yapıldı ve KNN algoritmasına giriş yapıldı. ~ 93. ders 12.01.2025* :white_check_mark:
   * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
   * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
   
