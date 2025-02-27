@@ -230,8 +230,17 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *DBSCAN algoritma teorisi ve uygulaması yapıldı. ~ 92. ders 11.01.2025* :white_check_mark:
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
 * :red_circle: *OPTICS algoritma teorisi ve uygulaması yapıldı ve KNN algoritmasına giriş yapıldı. ~ 93. ders 12.01.2025* :white_check_mark:
-  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
-  * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
+  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler ( KNeighborsClassifier(), KNeighborsRegressor() )
+  * :no_entry_sign: Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
+
+* __Kovaryans ve Korelasyon Kavramları__
+   
+  * Kovaryans Kavramı
+* :red_circle: *Varyans, Kovaryans ve Korelasyon konularına giriş yapıldı. ~ 94. ders 17.01.2025* :white_check_mark:
+  * Pearson ve Spearman korelasyon katsayıları
+  * Python'da Kovaryans ve Korelasyon Hesaplamaları
+  * Korelasyon ve Nedensellik
+  * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -271,14 +280,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Matrisler Üzerinde Temel İşlemler
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Özvektörler
- 
-* __Kovaryans ve Korelasyon Kavramları__
-   
-  * Kovaryans Kavramı 
-  * Pearson ve Spearman korelasyon katsayıları
-  * Python'da Kovaryans ve Korelasyon Hesaplamaları
-  * Korelasyon ve Nedensellik
-  * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
+
  
 * __İstatistiksel Hipotez Testleri ve Uygulamaları__
    
