@@ -237,10 +237,24 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
    
   * Kovaryans Kavramı
 * :red_circle: *Varyans, Kovaryans ve Korelasyon konularına giriş yapıldı. ~ 94. ders 17.01.2025* :white_check_mark:
-  * Pearson ve Spearman korelasyon katsayıları
   * Python'da Kovaryans ve Korelasyon Hesaplamaları
+  * Pearson ve Spearman korelasyon katsayıları
   * Korelasyon ve Nedensellik
   * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
+ 
+* __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
+
+  * Boyutsal Özellik İndirgemesi Nedir?
+  * Boyutsal Özellik İndirgemelerine Neden Gereksinim Duyulmaktadır?
+  * Düşük Varyans Filtremeleri
+  * Yüksek Korelasyon Filtremeleri
+* :red_circle: *Korelasyon, boyutsal özellik indirgemesi. ~ 95. ders 18.01.2025* :white_check_mark:
+  * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
+  * Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
+  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
+  * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
+  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
+  * Diğer Boyutsal Özellik İndirgeme Yöntemleri Hakkında Temel Bilgiler
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -294,19 +308,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-  
-* __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
-
-  * Boyutsal Özellik İndirgemesi Nedir?
-  * Boyutsal Özellik İndirgemelerine Neden Gereksinim Duyulmaktadır?
-  * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
-  * Düşük Varyans Filtremeleri
-  * Yüksek Korelasyon Filtremeleri
-  * Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
-  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
-  * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
-  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
-  * Diğer Boyutsal Özellik İndirgeme Yöntemleri Hakkında Temel Bilgiler
 
 * __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
   
