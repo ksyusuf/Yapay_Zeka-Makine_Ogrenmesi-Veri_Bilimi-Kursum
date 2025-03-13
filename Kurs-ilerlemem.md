@@ -249,11 +249,13 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
 * :red_circle: *Korelasyon, boyutsal özellik indirgemesi. ~ 95. ders 18.01.2025* :white_check_mark:
+  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
+* :red_circle: *Temel Bileşenler Analizi (PCA), yüksek korelasyon filtrelemesi (DropCorrelatedFeatures, Feature-engine). ~ 96. ders 25.01.2025* :white_check_mark:
   * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
   * Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
   * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
   * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
-  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
+
   * Diğer Boyutsal Özellik İndirgeme Yöntemleri Hakkında Temel Bilgiler
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
