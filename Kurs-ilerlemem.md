@@ -251,6 +251,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Korelasyon, boyutsal özellik indirgemesi. ~ 95. ders 18.01.2025* :white_check_mark:
   * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
 * :red_circle: *Temel Bileşenler Analizi (PCA), yüksek korelasyon filtrelemesi (DropCorrelatedFeatures, Feature-engine). ~ 96. ders 25.01.2025* :white_check_mark:
+* :red_circle: *Pipeline ve make_pipeline işlendi. ~ 97. ders 26.01.2025* :white_check_mark:
   * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
   * Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
   * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
