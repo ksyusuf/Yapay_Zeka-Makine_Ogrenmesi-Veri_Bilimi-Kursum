@@ -252,12 +252,18 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
 * :red_circle: *Temel Bileşenler Analizi (PCA), yüksek korelasyon filtrelemesi (DropCorrelatedFeatures, Feature-engine). ~ 96. ders 25.01.2025* :white_check_mark:
 * :red_circle: *Pipeline ve make_pipeline işlendi. ~ 97. ders 26.01.2025* :white_check_mark:
-  * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
-  * Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
-  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
-  * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
-
-  * Diğer Boyutsal Özellik İndirgeme Yöntemleri Hakkında Temel Bilgiler
+  * :no_entry_sign: Eksik Değerli Sütunların Atılması (Missing Value Ratio)
+  * :no_entry_sign: Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
+  * :no_entry_sign: İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
+  * :no_entry_sign: Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
+  * :no_entry_sign: Diğer Boyutsal Özellik İndirgeme Yöntemleri Hakkında Temel Bilgiler
+ 
+* __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
+  
+  * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
+  * Kümeleme Tabanlı Anomali Tespit Yöntemleri
+* :red_circle: *PCA tamamlandı. Anomaly Detection giriş yapıldı. ~ 98. ders 01.02.2025* :red_circle:
+  * Anomalilerin Tespit Edilmesi İçin Kullanılan Diğer Önemli Yaklaşımlar
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -312,11 +318,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
 
-* __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
-  
-  * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
-  * Kümeleme Tabanlı Anomali Tespit Yöntemleri
-  * Anomalilerin Tespit Edilmesi İçin Kullanılan Diğer Önemli Yaklaşımlar
 
 * __Sayısal (Nümerik) Analiz İşlemleri__
 
