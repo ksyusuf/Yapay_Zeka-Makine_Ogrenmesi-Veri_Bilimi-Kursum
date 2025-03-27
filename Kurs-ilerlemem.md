@@ -264,6 +264,17 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Kümeleme Tabanlı Anomali Tespit Yöntemleri
 * :red_circle: *PCA tamamlandı. Anomaly Detection giriş yapıldı. ~ 98. ders 01.02.2025* :red_circle:
   * Anomalilerin Tespit Edilmesi İçin Kullanılan Diğer Önemli Yaklaşımlar
+   
+* __En Yakın Komuşuluk Yöntemiyle ve Naive Bayes Yöntemiyle Sınıflandırma ve Bayes Ağları__
+
+  * En Yakın Komşuluk (K-Nearest Neighbours) Yöntemiyle Sınıflandırma
+  * Koşullu Olasılık Kavramı ve Bayes Teoremi
+  * Naive Bayes Yönteminin Dayandığı Temeller
+* :red_circle: *K-Neighbors, NearestNeighbors metotları ile kredi kartı verisi ile anomali tespiti ve Naive Bayes giirş. ~ 99. ders 02.02.2025* :red_circle:
+  * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
+  * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
+  * Bayes Ağları
+  * Bayes Ağlarının Uygulama Alanları
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -383,16 +394,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Karar Ağaçlarıyla Sınıflandırma İşlemleri
   * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
-  
-* __En Yakın Komuşuluk Yöntemiyle ve Naive Bayes Yöntemiyle Sınıflandırma ve Bayes Ağları__
-
-  * En Yakın Komşuluk (K-Nearest Neighbours) Yöntemiyle Sınıflandırma
-  * Koşullu Olasılık Kavramı ve Bayes Teoremi
-  * Naive Bayes Yönteminin Dayandığı Temeller
-  * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
-  * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
-  * Bayes Ağları
-  * Bayes Ağlarının Uygulama Alanları
 
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 
