@@ -270,8 +270,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * En Yakın Komşuluk (K-Nearest Neighbours) Yöntemiyle Sınıflandırma
   * Koşullu Olasılık Kavramı ve Bayes Teoremi
   * Naive Bayes Yönteminin Dayandığı Temeller
-* :red_circle: *K-Neighbors, NearestNeighbors metotları ile kredi kartı verisi ile anomali tespiti ve Naive Bayes giirş. ~ 99. ders 02.02.2025* :red_circle:
+* :red_circle: *K-Neighbors, NearestNeighbors metotları ile kredi kartı verisi ile anomali tespiti ve Naive Bayes giriş. ~ 99. ders 02.02.2025* :red_circle:
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
+* :red_circle: *Ayrık Bütüne Tamamlayan Olaylar ve Naive Bayes sınıflandırma olasılıkları. ~ 100. ders 08.02.2025* :red_circle:
   * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
   * Bayes Ağları
   * Bayes Ağlarının Uygulama Alanları
