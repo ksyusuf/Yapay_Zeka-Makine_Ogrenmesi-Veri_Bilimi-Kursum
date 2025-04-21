@@ -276,6 +276,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
   * Bayes Ağları
   * Bayes Ağlarının Uygulama Alanları
+ 
+* :white_check_mark: *Gaussian NB ile breast-cancer örneği yapıldı. İstatistiksel Regresyon İşlemlerine giriş yapıldı. ~ 101. ders 09.02.2025* :red_circle:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
