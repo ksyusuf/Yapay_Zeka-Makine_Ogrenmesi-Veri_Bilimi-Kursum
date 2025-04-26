@@ -278,6 +278,24 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Bayes Ağlarının Uygulama Alanları
  
 * :white_check_mark: *Gaussian NB ile breast-cancer örneği yapıldı. İstatistiksel Regresyon İşlemlerine giriş yapıldı. ~ 101. ders 09.02.2025* :red_circle:
+
+* __İstatistiksel Yöntemlerle Gerçekleştirilen Regresyon İşlemleri__
+
+  * Basit Doğrusal Regresyon 
+  * Çoklu Doğrusal Regresyon
+  * Çoklu Doğrual Regresyonun Önemli Sorunları
+* :red_circle: *Basit ve Çoklu doğrusal regresyon kod örneği yapıldı. ~ 102. ders 15.02.2025* :red_circle:
+  * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
+  * Lasso, Ridge ve Elastic Net Regresyonları
+  * Polinomsal Regresyon
+  * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
+  * İstatistiksel Lojistik Regresyon
+  * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
+  * İstatistiksel Lojistik Regresyon Problemlerinin Çözüm Yaklaşımları
+  * İstatistiksel Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
+  * Çok Sınıflı Lojistik Regresyon Problemleri
+  * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
+  * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -366,23 +384,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Ağlarda Ölçümleme (Measuring Networks)
   * Ağlarda Benzerlikler
   * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
-
-* __İstatistiksel Yöntemlerle Gerçekleştirilen Regresyon İşlemleri__
-
-  * Basit Doğrusal Regresyon 
-  * Çoklu Doğrusal Regresyon
-  * Çoklu Doğrual Regresyonun Önemli Sorunları
-  * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
-  * Lasso, Ridge ve Elastic Net Regresyonları
-  * Polinomsal Regresyon
-  * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
-  * İstatistiksel Lojistik Regresyon
-  * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
-  * İstatistiksel Lojistik Regresyon Problemlerinin Çözüm Yaklaşımları
-  * İstatistiksel Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
-  * Çok Sınıflı Lojistik Regresyon Problemleri
-  * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
-  * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
   
 * __Destek Vektör Makineleri (Support Vector Machines)__
 
