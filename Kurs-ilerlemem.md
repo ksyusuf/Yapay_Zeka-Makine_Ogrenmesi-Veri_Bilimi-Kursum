@@ -286,6 +286,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Çoklu Doğrual Regresyonun Önemli Sorunları
 * :red_circle: *Basit ve Çoklu doğrusal regresyon kod örneği yapıldı. ~ 102. ders 15.02.2025* :red_circle:
   * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
+* :red_circle: *Boston Housing Price veri seti ile doğrusal regresyon ve yapay zeka ağı kıyaslaması. variance_inflation_factor(). ~ 103. ders 16.02.2025* :red_circle:
   * Lasso, Ridge ve Elastic Net Regresyonları
   * Polinomsal Regresyon
   * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
