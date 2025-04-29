@@ -290,6 +290,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Lasso, Ridge ve Elastic Net Regresyonları
 * :white_check_mark: *Lasso, Ridge ve ElasticNet regresyonları işlendi. Polinomsal regresyon son 5 dk değinildi. ~ 104. ders 22.02.2025* :red_circle:
   * Polinomsal Regresyon
+* :red_circle: *Polinomsal regresyon teorik anlatım. ~ 105. ders 01.03.2025* :red_circle:
   * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
   * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
