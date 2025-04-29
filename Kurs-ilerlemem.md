@@ -288,6 +288,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
 * :red_circle: *Boston Housing Price veri seti ile doğrusal regresyon ve yapay zeka ağı kıyaslaması. variance_inflation_factor(). ~ 103. ders 16.02.2025* :red_circle:
   * Lasso, Ridge ve Elastic Net Regresyonları
+* :white_check_mark: *Lasso, Ridge ve ElasticNet regresyonları işlendi. Polinomsal regresyon son 5 dk değinildi. ~ 104. ders 22.02.2025* :red_circle:
   * Polinomsal Regresyon
   * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
