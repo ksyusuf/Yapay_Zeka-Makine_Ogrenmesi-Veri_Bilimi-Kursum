@@ -298,6 +298,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * İstatistiksel Lojistik Regresyon Problemlerinin Çözüm Yaklaşımları
 * :red_circle: *Polinomsal regresyon - pipeline ve sınıflı istatistiksel lojistik regresyon giriş. ~ 107. ders 08.03.2025* :white_check_mark:
   * İstatistiksel Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
+* :red_circle: *Çok Sınıflı Lojistik regresyon teori. ~ 108. ders 09.03.2025* :red_circle:
   * Çok Sınıflı Lojistik Regresyon Problemleri
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
