@@ -302,6 +302,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Çok Sınıflı Lojistik Regresyon Problemleri
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
+* :white_check_mark: *OvR, OvO ve LogisticRegression() tamamlandı. ~ 109. ders 15.03.2025* :white_check_mark:
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
