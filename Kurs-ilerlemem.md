@@ -303,6 +303,15 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
 * :white_check_mark: *OvR, OvO ve LogisticRegression() tamamlandı. ~ 109. ders 15.03.2025* :white_check_mark:
+
+  
+* __Destek Vektör Makineleri (Support Vector Machines)__
+
+  * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
+  * Destek Vektör Makineleri İle Sınıflandırma İşlemleri
+* :red_circle: *SVM Giriş ve SVM() örnek çalışması yapıldı. ~ 110. ders 16.03.2025* :red_circle:
+  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon İşlemleri
+  * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -391,13 +400,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Ağlarda Ölçümleme (Measuring Networks)
   * Ağlarda Benzerlikler
   * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
-  
-* __Destek Vektör Makineleri (Support Vector Machines)__
-
-  * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
-  * Destek Vektör Makineleri İle Sınıflandırma İşlemleri
-  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon İşlemleri
-  * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
 * __Karar Ağaçları (Decision Trees)__
 
