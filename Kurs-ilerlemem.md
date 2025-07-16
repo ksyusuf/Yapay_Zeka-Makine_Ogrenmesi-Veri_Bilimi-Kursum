@@ -312,6 +312,19 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *SVM Giriş ve SVM() örnek çalışması yapıldı. ~ 110. ders 16.03.2025* :red_circle:
   * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon İşlemleri
   * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
+ 
+* __Sayısal (Nümerik) Analiz İşlemleri__
+
+  * Newton-Raphson Yöntemi ile Kök Bulma
+* :red_circle: *Newton-Raphson'a giriş yapıldı. ~ 111. ders 22.03.2025* :red_circle:
+  * Sürekli ve Ayrık Fonksiyonlar
+  * Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
+  * Türev Kavramı
+  * SymPy Kütüphanesi ile Sembolik Türev İşlemleri
+  * Sayısal Türev İşlemleri
+  * Integral Kavramı
+  * SymPy Kütüphanesi ile Sembolik Integral İşlemleri
+  * Sayısal İntegral İşlemleri
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -365,19 +378,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-
-
-* __Sayısal (Nümerik) Analiz İşlemleri__
-
-  * Sürekli ve Ayrık Fonksiyonlar
-  * Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
-  * Newton-Raphson Yöntemi ile Kök Bulma
-  * Türev Kavramı
-  * SymPy Kütüphanesi ile Sembolik Türev İşlemleri
-  * Sayısal Türev İşlemleri
-  * Integral Kavramı
-  * SymPy Kütüphanesi ile Sembolik Integral İşlemleri
-  * Sayısal İntegral İşlemleri
     
 * __Matematiksel Optimizasyon İşlemleri__
 
