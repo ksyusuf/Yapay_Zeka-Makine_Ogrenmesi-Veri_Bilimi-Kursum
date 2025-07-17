@@ -314,9 +314,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
  
 * __Sayısal (Nümerik) Analiz İşlemleri__
-
-  * Newton-Raphson Yöntemi ile Kök Bulma
 * :red_circle: *Newton-Raphson'a giriş yapıldı. ~ 111. ders 22.03.2025* :red_circle:
+  * Newton-Raphson Yöntemi ile Kök Bulma
+* :red_circle: *Newton-Raphson kod örneği yapıldı. ~ 112. ders 23.03.2025* :red_circle:
   * Sürekli ve Ayrık Fonksiyonlar
   * Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
   * Türev Kavramı
