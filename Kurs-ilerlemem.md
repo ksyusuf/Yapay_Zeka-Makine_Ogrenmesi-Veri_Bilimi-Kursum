@@ -318,10 +318,11 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Newton-Raphson Yöntemi ile Kök Bulma
 * :red_circle: *Newton-Raphson kod örneği yapıldı. ~ 112. ders 23.03.2025* :red_circle:
   * Sürekli ve Ayrık Fonksiyonlar
-  * Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
+  * :no_entry_sign: Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
   * Türev Kavramı
-  * SymPy Kütüphanesi ile Sembolik Türev İşlemleri
+  * :no_entry_sign: SymPy Kütüphanesi ile Sembolik Türev İşlemleri
   * Sayısal Türev İşlemleri
+* :red_circle: *Türev ve Gradient Descent örnek çalışmaları yapıldı. ~ 113. ders 06.04.2025* :red_circle:
   * Integral Kavramı
   * SymPy Kütüphanesi ile Sembolik Integral İşlemleri
   * Sayısal İntegral İşlemleri
