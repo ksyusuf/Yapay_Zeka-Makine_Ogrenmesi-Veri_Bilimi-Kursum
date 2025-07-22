@@ -323,10 +323,19 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: SymPy Kütüphanesi ile Sembolik Türev İşlemleri
   * Sayısal Türev İşlemleri
 * :red_circle: *Türev ve Gradient Descent örnek çalışmaları yapıldı. ~ 113. ders 06.04.2025* :red_circle:
-  * Integral Kavramı
-  * SymPy Kütüphanesi ile Sembolik Integral İşlemleri
-  * Sayısal İntegral İşlemleri
-  
+  * :no_entry_sign: Integral Kavramı
+  * :no_entry_sign: SymPy Kütüphanesi ile Sembolik Integral İşlemleri
+  * :no_entry_sign: Sayısal İntegral İşlemleri
+ 
+* __Matematiksel Optimizasyon İşlemleri__
+
+  * Maksimizasyon ve Minimizasyon Problemleri
+  * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
+* :red_circle: *Gradient Descent doğrusal regresyon ve lojistik regresyon çalışmaları yapıldı. ~ 114. ders 12.04.2025* :red_circle:
+  * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemler
+  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
+  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
+ 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
@@ -379,14 +388,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-    
-* __Matematiksel Optimizasyon İşlemleri__
-
-  * Maksimizasyon ve Minimizasyon Problemleri
-  * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
-  * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemler
-  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
-  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
 
 * __Graflar Üzerinde İşlemler ve Ağ Analizi__
   
