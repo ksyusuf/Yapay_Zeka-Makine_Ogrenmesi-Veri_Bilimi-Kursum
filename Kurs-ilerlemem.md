@@ -333,6 +333,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
 * :red_circle: *Gradient Descent doğrusal regresyon ve lojistik regresyon çalışmaları yapıldı. ~ 114. ders 12.04.2025* :red_circle:
   * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemler
+* :red_circle: *Gradient Descent fonksiyonu yazıldı. Batch, Stochastic ve Mini Batch yöntemleri açıklandı. ~ 115. ders 13.04.2025* :red_circle:
   * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
   * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
  
