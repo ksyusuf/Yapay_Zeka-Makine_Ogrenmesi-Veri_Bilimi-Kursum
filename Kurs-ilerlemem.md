@@ -337,6 +337,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
   * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
  
+* :white_check_mark: *Parçalı türev kısmı tamam, Doğrusal programalma örnek problem çözümü ve scipy.optimize.linprog örneği yapıldı. ~ 116. ders 19.04.2025* :red_circle:
+ 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
