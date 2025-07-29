@@ -334,11 +334,25 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Gradient Descent doğrusal regresyon ve lojistik regresyon çalışmaları yapıldı. ~ 114. ders 12.04.2025* :red_circle:
   * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemler
 * :red_circle: *Gradient Descent fonksiyonu yazıldı. Batch, Stochastic ve Mini Batch yöntemleri açıklandı. ~ 115. ders 13.04.2025* :red_circle:
-  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
-  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
- 
-* :white_check_mark: *Parçalı türev kısmı tamam, Doğrusal programalma örnek problem çözümü ve scipy.optimize.linprog örneği yapıldı. ~ 116. ders 19.04.2025* :red_circle:
- 
+  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü
+* :red_circle: *Parçalı türev kısmı tamam, Doğrusal programlama problem çözümü ve scipy.optimize.linprog örneği yapıldı. ~ 116. ders 19.04.2025* :red_circle:
+  * :no_entry_sign: Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
+
+* __Graflar Üzerinde İşlemler ve Ağ Analizi__
+  
+  * Graf Veri Yapıları
+* :red_circle: *linprog ve PuLP örneği yapıldı. Gaph'lere giriş yapıldı. ~ 116. ders 20.04.2025* :red_circle:
+  * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
+  * Python'da Graf Problemleri İçin Kullanılan Kütüphaneler
+  * NetworkX ve python-igraph Kütüphanelerinin Kullanımı
+  * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
+  * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
+  * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
+  * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar
+  * Ağlarda Ölçümleme (Measuring Networks)
+  * Ağlarda Benzerlikler
+  * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
+
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
@@ -391,20 +405,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-
-* __Graflar Üzerinde İşlemler ve Ağ Analizi__
-  
-  * Graf Veri Yapıları
-  * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
-  * Python'da Graf Problemleri İçin Kullanılan Kütüphaneler
-  * NetworkX ve python-igraph Kütüphanelerinin Kullanımı
-  * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
-  * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
-  * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
-  * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar
-  * Ağlarda Ölçümleme (Measuring Networks)
-  * Ağlarda Benzerlikler
-  * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
   
 * __Karar Ağaçları (Decision Trees)__
 
