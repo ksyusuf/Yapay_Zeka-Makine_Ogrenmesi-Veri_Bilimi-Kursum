@@ -345,7 +345,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
   * Python'da Graf Problemleri İçin Kullanılan Kütüphaneler
   * NetworkX ve python-igraph Kütüphanelerinin Kullanımı
+  * :no_entry_sign: Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı (kamada_kawai_layout ile çizdirdik)
 * :red_circle: *NetworkX kütüphanesi add_node ve add_edge. Graph çizimi kamada_kawai_layout algoritması ile çizim. ~ 118. ders 26.04.2025* :red_circle:
+* :red_circle: *DiGraph görselleştirmesi. En kısa yol hesaplama, shortest_path() örneği. Dosyadan okuma ile graph çizimi. ~ 119. ders 27.04.2025* :red_circle:
   * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
   * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
