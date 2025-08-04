@@ -350,12 +350,19 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
   * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar
 * :red_circle: *Graph görselleştirme, en küçük örten ağaç, maksimum akış problemi ve gezgin satıcı problemleri işlendi. ~ 120. ders 03.05.2025* :red_circle:
-  * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
+  * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton (pas) ve Euler Turlu Problemler (pas) vs.)
   * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
-  * Ağlarda Ölçümleme (Measuring Networks)
-  * Ağlarda Benzerlikler
-  * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
+  * :no_entry_sign: Ağlarda Ölçümleme (Measuring Networks)
+  * :no_entry_sign: Ağlarda Benzerlikler
+  * :no_entry_sign: Sosyal Ağlar Üzerinde Temel Graf İşlemleri
+
+* __Karar Ağaçları (Decision Trees)__
+* :red_circle: *Karar ağaçları teorik giriş.. ~ 121. ders 04.05.2025* :white_check_mark:
+  * Karar Ağaçlarının Dayandığı Matematiksel Temeller
+  * Karar Ağaçlarıyla Sınıflandırma İşlemleri
+  * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
+  * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -409,13 +416,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-  
-* __Karar Ağaçları (Decision Trees)__
-
-  * Karar Ağaçlarının Dayandığı Matematiksel Temeller
-  * Karar Ağaçlarıyla Sınıflandırma İşlemleri
-  * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
-  * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
 
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 
