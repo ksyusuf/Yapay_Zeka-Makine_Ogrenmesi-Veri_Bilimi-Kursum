@@ -358,9 +358,10 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: Sosyal Ağlar Üzerinde Temel Graf İşlemleri
 
 * __Karar Ağaçları (Decision Trees)__
-* :red_circle: *Karar ağaçları teorik giriş.. ~ 121. ders 04.05.2025* :white_check_mark:
+* :red_circle: *Karar ağaçları teorik giriş. ~ 121. ders 04.05.2025* :white_check_mark:
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
   * Karar Ağaçlarıyla Sınıflandırma İşlemleri
+* :red_circle: *scikit-learn DecisionTreeClassifier() breast_cancer, car_evaluation ve iris örnekleri. Karar ağaçları algoritmik yapıları. ~ 122. ders 10.05.2025* :red_circle:
   * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
 
