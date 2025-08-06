@@ -364,6 +364,18 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *scikit-learn DecisionTreeClassifier() breast_cancer, car_evaluation ve iris örnekleri. Karar ağaçları algoritmik yapıları. ~ 122. ders 10.05.2025* :red_circle:
   * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
+ 
+* __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
+* :red_circle: *Karar ağaçları bölünme noktaları, entropi, scikit-learn DecisionTreeRegressor() boston housing prices ile örnek yapıldı. Ensemble yöntemler - oylama yöntemi giriş yapıldı. ~ 123. ders 11.05.2025* :white_check_mark:
+  * Ensemble Yöntemler Nedir?
+  * Boosting Yöntemleri 
+  * Bagging Yöntemleri
+  * Stacking Yöntemleri
+  * Rassal Ormanlar (Random Forests) 
+  * Diğer Ensemble Yöntemler
+  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
+  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
+  * XGBoost Kütüphanesinin Kullanımı
 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -417,18 +429,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-
-* __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
-
-  * Ensemble Yöntemler Nedir?
-  * Boosting Yöntemleri 
-  * Bagging Yöntemleri
-  * Stacking Yöntemleri
-  * Rassal Ormanlar (Random Forests) 
-  * Diğer Ensemble Yöntemler
-  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
-  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
-  * XGBoost Kütüphanesinin Kullanımı
 
 * __Pekiştirmeli Öğrenme (Reinforcement Learning)__
 
