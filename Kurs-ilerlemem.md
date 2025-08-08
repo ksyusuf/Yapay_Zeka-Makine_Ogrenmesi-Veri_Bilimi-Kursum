@@ -367,6 +367,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
  
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 * :red_circle: *Karar ağaçları bölünme noktaları, entropi, scikit-learn DecisionTreeRegressor() boston housing prices ile örnek yapıldı. Ensemble yöntemler - oylama yöntemi giriş yapıldı. ~ 123. ders 11.05.2025* :white_check_mark:
+* :red_circle: *Cryotherapy veri seti ile ensemble oylama metodu örnek sınıf yazılarak örnek yapıldı. scikit-learn VotingClassifier() ile örnek tekrar çözüldü. ~ 124. ders 17.05.2025* :red_circle:
+  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
   * Ensemble Yöntemler Nedir?
   * Boosting Yöntemleri 
   * Bagging Yöntemleri
@@ -374,7 +376,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
   * KFold Validation İşleminin Anlamı ve Uygulama Alanları
-  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
   * XGBoost Kütüphanesinin Kullanımı
 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
