@@ -366,12 +366,13 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
  
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
+  * Ensemble Yöntemler Nedir?
 * :red_circle: *Karar ağaçları bölünme noktaları, entropi, scikit-learn DecisionTreeRegressor() boston housing prices ile örnek yapıldı. Ensemble yöntemler - oylama yöntemi giriş yapıldı. ~ 123. ders 11.05.2025* :white_check_mark:
 * :red_circle: *Cryotherapy veri seti ile ensemble oylama metodu örnek sınıf yazılarak örnek yapıldı. scikit-learn VotingClassifier() ile örnek tekrar çözüldü. ~ 124. ders 17.05.2025* :red_circle:
-  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
-  * Ensemble Yöntemler Nedir?
-  * Boosting Yöntemleri 
   * Bagging Yöntemleri
+* :red_circle: *Pipeline mantığı ile autompg örneği. KerasRegressor(). Bagging yöntemine giriş ve örnek yapımı. ~ 125. ders 18.05.2025* :red_circle:
+  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
+  * Boosting Yöntemleri 
   * Stacking Yöntemleri
   * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
