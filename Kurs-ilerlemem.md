@@ -372,11 +372,12 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Bagging Yöntemleri
 * :red_circle: *Pipeline mantığı ile autompg örneği. KerasRegressor(). Bagging yöntemine giriş ve örnek yapımı. ~ 125. ders 18.05.2025* :red_circle:
   * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
-  * Boosting Yöntemleri 
   * Stacking Yöntemleri
+  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
+* :red_circle: *BaggingRegressor(), StackingClassifier(), K-Fold işlendi ve örnekler yapıldı. Boosting'e merhaba dendi. ~ 126. ders 24.05.2025* :red_circle:
+  * Boosting Yöntemleri 
   * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
-  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
   * XGBoost Kütüphanesinin Kullanımı
 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
