@@ -375,6 +375,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Stacking Yöntemleri
   * KFold Validation İşleminin Anlamı ve Uygulama Alanları
 * :red_circle: *BaggingRegressor(), StackingClassifier(), K-Fold işlendi ve örnekler yapıldı. Boosting'e merhaba dendi. ~ 126. ders 24.05.2025* :red_circle:
+* :red_circle: *AdaBoosting AdaBoostClassifier() işlendi, örnekler yapıldı. Gradient Boosting giriş yapıldı. ~ 127. ders 25.05.2025* :red_circle:
   * Boosting Yöntemleri 
   * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
