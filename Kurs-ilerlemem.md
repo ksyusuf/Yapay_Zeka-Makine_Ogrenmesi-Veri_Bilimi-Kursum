@@ -373,10 +373,11 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Pipeline mantığı ile autompg örneği. KerasRegressor(). Bagging yöntemine giriş ve örnek yapımı. ~ 125. ders 18.05.2025* :red_circle:
   * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
   * Stacking Yöntemleri
-  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
 * :red_circle: *BaggingRegressor(), StackingClassifier(), K-Fold işlendi ve örnekler yapıldı. Boosting'e merhaba dendi. ~ 126. ders 24.05.2025* :red_circle:
 * :red_circle: *AdaBoosting AdaBoostClassifier() işlendi, örnekler yapıldı. Gradient Boosting giriş yapıldı. ~ 127. ders 25.05.2025* :red_circle:
-  * Boosting Yöntemleri 
+  * Boosting Yöntemleri
+  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
+* :red_circle: *KFold sınıfı işlendi, örnek yapıldı. cross_val_score() fonksiyonu işlendi. Dünya nereye evrilecek konuşmaları. ~ 128. ders 31.05.2025* :red_circle:
   * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
   * XGBoost Kütüphanesinin Kullanımı
