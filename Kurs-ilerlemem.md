@@ -210,7 +210,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *AutoKeras AutoModel fonksiyonel yapı ve DenseBlock nesnesi işlendi. ~ 82. ders 24.11.2024* :white_check_mark:
   * AutoKeras Kütüphanesinin Kullanımı
   * :no_entry_sign: AutoSklearn Kütüphanesinin Kullanımı
-  * :no_entry_sign: TPOT Kütüphanesinin Kullanımı
 
 * __Denetimsiz Öğrenme (Unsupervised Learning)__
   
@@ -378,7 +377,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Boosting Yöntemleri
   * KFold Validation İşleminin Anlamı ve Uygulama Alanları
 * :red_circle: *KFold sınıfı işlendi, örnek yapıldı. cross_val_score() fonksiyonu işlendi. Dünya nereye evrilecek konuşmaları. ~ 128. ders 31.05.2025* :red_circle:
-  * Rassal Ormanlar (Random Forests) 
+  * Rassal Ormanlar (Random Forests)
+* :red_circle: *Stratified KFold ve Random Forest işlendi. TPOT giriş yapıldı. ~ 129. ders 01.06.2025* :red_circle:
+  * TPOT Kütüphanesinin Kullanımı
   * Diğer Ensemble Yöntemler
   * XGBoost Kütüphanesinin Kullanımı
 
