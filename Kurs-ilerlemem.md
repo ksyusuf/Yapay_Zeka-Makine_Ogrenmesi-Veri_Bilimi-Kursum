@@ -379,6 +379,8 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *KFold sınıfı işlendi, örnek yapıldı. cross_val_score() fonksiyonu işlendi. Dünya nereye evrilecek konuşmaları. ~ 128. ders 31.05.2025* :red_circle:
   * Rassal Ormanlar (Random Forests)
 * :red_circle: *Stratified KFold ve Random Forest işlendi. TPOT giriş yapıldı. ~ 129. ders 01.06.2025* :red_circle:
+* :red_circle: *TPOTClassifier() çeşitli veri setleri ile örnekler ve TPOTRegressor() giriş yapıldı. ~ 130. ders 14.06.2025* :red_circle:
+  * TPOT Kütüphanesinin Kullanımı
   * TPOT Kütüphanesinin Kullanımı
   * Diğer Ensemble Yöntemler
   * XGBoost Kütüphanesinin Kullanımı
