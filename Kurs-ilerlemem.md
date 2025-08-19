@@ -381,7 +381,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Stratified KFold ve Random Forest işlendi. TPOT giriş yapıldı. ~ 129. ders 01.06.2025* :red_circle:
 * :red_circle: *TPOTClassifier() çeşitli veri setleri ile örnekler ve TPOTRegressor() giriş yapıldı. ~ 130. ders 14.06.2025* :red_circle:
   * TPOT Kütüphanesinin Kullanımı
-  * TPOT Kütüphanesinin Kullanımı
+* :red_circle: *TPOT tamamlandı, AutoSklearnClassifier() giriş ve örnek yapımı denendi fakat linux mint kurulumda problem oldu. ~ 131. ders 15.06.2025* :red_circle:
   * Diğer Ensemble Yöntemler
   * XGBoost Kütüphanesinin Kullanımı
 
