@@ -382,6 +382,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *TPOTClassifier() çeşitli veri setleri ile örnekler ve TPOTRegressor() giriş yapıldı. ~ 130. ders 14.06.2025* :red_circle:
   * TPOT Kütüphanesinin Kullanımı
 * :red_circle: *TPOT tamamlandı, AutoSklearnClassifier() giriş ve örnek yapımı denendi fakat linux mint kurulumda problem oldu. ~ 131. ders 15.06.2025* :red_circle:
+* :red_circle: *AutoSklearnClassifier() eski python sürümünde çalışabildi, TPOT ile kıyas örneği yapıldı. AutoGluan giriş ve örnek yapıldı. ~ 132. ders 21.06.2025* :red_circle:
   * Diğer Ensemble Yöntemler
   * XGBoost Kütüphanesinin Kullanımı
 
