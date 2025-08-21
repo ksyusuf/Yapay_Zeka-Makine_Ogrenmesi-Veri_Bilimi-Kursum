@@ -383,9 +383,25 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * TPOT Kütüphanesinin Kullanımı
 * :red_circle: *TPOT tamamlandı, AutoSklearnClassifier() giriş ve örnek yapımı denendi fakat linux mint kurulumda problem oldu. ~ 131. ders 15.06.2025* :red_circle:
 * :red_circle: *AutoSklearnClassifier() eski python sürümünde çalışabildi, TPOT ile kıyas örneği yapıldı. AutoGluan giriş ve örnek yapıldı. ~ 132. ders 21.06.2025* :red_circle:
-  * Diğer Ensemble Yöntemler
-  * XGBoost Kütüphanesinin Kullanımı
+  * :no_entry_sign: Diğer Ensemble Yöntemler
+  * :no_entry_sign: XGBoost Kütüphanesinin Kullanımı
 
+* __Pekiştirmeli Öğrenme (Reinforcement Learning)__
+
+  * Pekiştirmeli Öğrenme Nedir?
+  * İnsan Öğrenmesinde Edimsel Koşullanma (Operant Conditioning)
+  * İnsan Öğrenmesinde Pekiştireçler ve Pekiştirme Tarifeleri
+  * Pekiştirmeli Makine Öğrenmesi Nedir?
+  * Pekiştirmeli Makine Öğrenmesinin Uygulama Alanları
+* :red_circle: *autogluon boston örneği tamamlandı. Pekiştirmeli öğrenmeye giriş yapıldı. Terimler öğrenildi. ~ 133. ders 22.06.2025* :red_circle:
+  * OpenAI GYM Ortamı
+  * OpenAI GYM Simülatörlerinin Kullanılması
+  * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
+  * Q-Learning Algoritması
+  * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
+  * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
+  * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
+  
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
@@ -425,7 +441,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Özvektörler
 
- 
 * __İstatistiksel Hipotez Testleri ve Uygulamaları__
    
   * İstatistiksel Hipotez Testlerinin Anlamı ve Uygulama Alanları
@@ -439,21 +454,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
 
-* __Pekiştirmeli Öğrenme (Reinforcement Learning)__
-
-  * Pekiştirmeli Öğrenme Nedir?
-  * İnsan Öğrenmesinde Edimsel Koşullanma (Operant Conditioning)
-  * İnsan Öğrenmesinde Pekiştireçler ve Pekiştirme Tarifeleri
-  * Pekiştirmeli Makine Öğrenmesi Nedir?
-  * Pekiştirmeli Makine Öğrenmesinin Uygulama Alanları
-  * OpenAI GYM Ortamı
-  * OpenAI GYM Simülatörlerinin Kullanılması
-  * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
-  * Q-Learning Algoritması
-  * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
-  * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
-  * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
-  
 * __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
 
   * Stable-Baselines Kütüphanesinin Kullanımı
