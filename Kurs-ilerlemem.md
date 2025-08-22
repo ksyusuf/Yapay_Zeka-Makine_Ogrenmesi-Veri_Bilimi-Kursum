@@ -395,6 +395,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Pekiştirmeli Makine Öğrenmesinin Uygulama Alanları
 * :red_circle: *autogluon boston örneği tamamlandı. Pekiştirmeli öğrenmeye giriş yapıldı. Terimler öğrenildi. ~ 133. ders 22.06.2025* :red_circle:
   * OpenAI GYM Ortamı
+* :red_circle: *gym  simülasyon mantığı anlatıldı. Çeşitli gym simülasyonları tanıtıldı, gym sınıfı kullanımına mini giriş yapıldı. ~ 134. ders 28.06.2025* :red_circle:
   * OpenAI GYM Simülatörlerinin Kullanılması
   * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
   * Q-Learning Algoritması
