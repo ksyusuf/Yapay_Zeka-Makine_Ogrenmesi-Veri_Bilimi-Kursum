@@ -399,6 +399,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *CartPole, MountainCar, Taxi simülasyonları denendi. ~ 135. ders 29.06.2025* :red_circle:
   * OpenAI GYM Simülatörlerinin Kullanılması
   * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
+* :red_circle: *Taxi simülasyonu, FrozenLike, Pacman ve Breakout simülasyonları işlendi. Q-Learning algoritmasına giriş yapıldı. ~ 136. ders 05.07.2025* :red_circle:
   * Q-Learning Algoritması
   * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
   * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
