@@ -381,7 +381,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Stratified KFold ve Random Forest işlendi. TPOT giriş yapıldı. ~ 129. ders 01.06.2025* :red_circle:
 * :red_circle: *TPOTClassifier() çeşitli veri setleri ile örnekler ve TPOTRegressor() giriş yapıldı. ~ 130. ders 14.06.2025* :red_circle:
   * TPOT Kütüphanesinin Kullanımı
-* :red_circle: *TPOT tamamlandı, AutoSklearnClassifier() giriş ve örnek yapımı denendi fakat linux mint kurulumda problem oldu. ~ 131. ders 15.06.2025* :red_circle:
+* :red_circle: *TPOT tamam, AutoSklearnClassifier() giriş ve örnek yapımı denendi fakat linux mint kurulumda problem oldu. ~ 131. ders 15.06.2025* :red_circle:
 * :red_circle: *AutoSklearnClassifier() eski python sürümünde çalışabildi, TPOT ile kıyas örneği yapıldı. AutoGluan giriş ve örnek yapıldı. ~ 132. ders 21.06.2025* :red_circle:
   * :no_entry_sign: Diğer Ensemble Yöntemler
   * :no_entry_sign: XGBoost Kütüphanesinin Kullanımı
@@ -399,9 +399,10 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *CartPole, MountainCar, Taxi simülasyonları denendi. ~ 135. ders 29.06.2025* :red_circle:
   * OpenAI GYM Simülatörlerinin Kullanılması
   * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
-* :red_circle: *Taxi simülasyonu, FrozenLike, Pacman ve Breakout simülasyonları işlendi. Q-Learning algoritmasına giriş yapıldı. ~ 136. ders 05.07.2025* :red_circle:
+* :red_circle: *Taxi, FrozenLike, Pacman ve Breakout simülasyonları işlendi. Q-Learning algoritmasına giriş yapıldı. ~ 136. ders 05.07.2025* :red_circle:
   * Q-Learning Algoritması
   * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
+* :red_circle: gym simülasyonlarında Q-Tablosu doldurma yöntemlerine değinildi ve matematiksel doldurma formülü işleniyor - Exploration/Explotation Strategy, epsilon greedy. ~ 137. ders 06.07.2025* :red_circle:
   * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
   
