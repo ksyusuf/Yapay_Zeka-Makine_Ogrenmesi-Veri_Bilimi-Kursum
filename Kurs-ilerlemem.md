@@ -402,8 +402,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Taxi, FrozenLike, Pacman ve Breakout simülasyonları işlendi. Q-Learning algoritmasına giriş yapıldı. ~ 136. ders 05.07.2025* :red_circle:
   * Q-Learning Algoritması
   * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
-* :red_circle: gym simülasyonlarında Q-Tablosu doldurma yöntemlerine değinildi ve matematiksel doldurma formülü işleniyor - Exploration/Explotation Strategy, epsilon greedy. ~ 137. ders 06.07.2025* :red_circle:
-  * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
+* :red_circle: *gym simülasyonlarında Q-Tablosu doldurma yöntemlerine değinildi ve matematiksel doldurma formülü işleniyor - Exploration/Explotation Strategy, epsilon greedy. ~ 137. ders 06.07.2025* :red_circle:
+  * :no_entry_sign: Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
+* :red_circle: *Q-Learning tablosu doldurma örnekleri Taxi ve FrozenLike simülasyonları ile yapıldı. ~ 138. ders 12.07.2025* :white_check_mark:
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
