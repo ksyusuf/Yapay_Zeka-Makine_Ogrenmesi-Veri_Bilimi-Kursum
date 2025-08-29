@@ -406,6 +406,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
 * :red_circle: *Q-Learning tablosu doldurma örnekleri Taxi ve FrozenLike simülasyonları ile yapıldı. ~ 138. ders 12.07.2025* :white_check_mark:
 * :red_circle: *CardPole ve MountainCar (yarıda kesildi) Q-Learning tablosu doldurma örneği yapıldı. Sürekli veriyi ayrık hale getirme işlemi. ~ 139. ders 13.07.2025* :white_check_mark:
+* :red_circle: *Deep Q-Learning giriş yapıldı, "replay buffer" mantığı anlatıldı collections.deque anlatıldı. Devam edecek. ~ 140. ders 19.07.2025* :red_circle:
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
