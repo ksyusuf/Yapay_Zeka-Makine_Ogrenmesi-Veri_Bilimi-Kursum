@@ -357,6 +357,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: Sosyal Ağlar Üzerinde Temel Graf İşlemleri
 
 * __Karar Ağaçları (Decision Trees)__
+
 * :red_circle: *Karar ağaçları teorik giriş. ~ 121. ders 04.05.2025* :white_check_mark:
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
   * Karar Ağaçlarıyla Sınıflandırma İşlemleri
@@ -365,6 +366,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
  
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
+
   * Ensemble Yöntemler Nedir?
 * :red_circle: *Karar ağaçları bölünme noktaları, entropi, scikit-learn DecisionTreeRegressor() boston housing prices ile örnek yapıldı. Ensemble yöntemler - oylama yöntemi giriş yapıldı. ~ 123. ders 11.05.2025* :white_check_mark:
 * :red_circle: *Cryotherapy veri seti ile ensemble oylama metodu örnek sınıf yazılarak örnek yapıldı. scikit-learn VotingClassifier() ile örnek tekrar çözüldü. ~ 124. ders 17.05.2025* :red_circle:
@@ -408,8 +410,14 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *CardPole ve MountainCar (yarıda kesildi) Q-Learning tablosu doldurma örneği yapıldı. Sürekli veriyi ayrık hale getirme işlemi. ~ 139. ders 13.07.2025* :white_check_mark:
 * :red_circle: *Deep Q-Learning giriş yapıldı, "replay buffer" mantığı anlatıldı collections.deque anlatıldı. Devam edecek. ~ 140. ders 19.07.2025* :red_circle:
 * :red_circle: *Deep Q-Learning CartPoler için yapıldı fakat çok yavaş çalışıyor. ~ 141. ders 26.07.2025* :red_circle:
+   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
 * :red_circle: *Değer tabanlı (based value) vd DQN yöntemlerin varlığına değinildi. Stable Baseline kütüphanesi giriş yapıldı, kütüphaneler kuruldu. ~ 142. ders 27.07.2025* :red_circle:
-  * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
+ 
+* __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
+
+* :red_circle: *DQN, A2C ve PPO modelleri uygulama yapıldı. ~ 143. ders 02.08.2025* :red_circle:
+  * Stable-Baselines Kütüphanesinin Kullanımı
+  * Keras-RL Kütüphanesinin Kullanımı
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -463,10 +471,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
   * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
 
-* __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
-
-  * Stable-Baselines Kütüphanesinin Kullanımı
-  * Keras-RL Kütüphanesinin Kullanımı
 
 * __Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi İçin Cloud Platformlarının Kullanılması__
 
