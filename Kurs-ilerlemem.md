@@ -416,6 +416,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
 
 * :red_circle: *DQN, A2C ve PPO modelleri uygulama yapıldı. ~ 143. ders 02.08.2025* :red_circle:
+* :red_circle: *Taxi Simülatörü DQN ve PPO modelleri ile eğitim denendi, başarısız. Multi Learning işlendi. ~ 144. ders 03.08.2025* :red_circle:
   * Stable-Baselines Kütüphanesinin Kullanımı
   * Keras-RL Kütüphanesinin Kullanımı
   
