@@ -418,6 +418,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *DQN, A2C ve PPO modelleri uygulama yapıldı. ~ 143. ders 02.08.2025* :red_circle:
 * :red_circle: *Taxi Simülatörü DQN ve PPO modelleri ile eğitim denendi, başarısız. Multi Learning işlendi. ~ 144. ders 03.08.2025* :red_circle:
   * Stable-Baselines Kütüphanesinin Kullanımı
+* :red_circle: *gym CustomEnv işlendi. Keras-RL başlık atıldı, mini kıyas konuşuldu. ~ 145. ders 10.08.2025* :red_circle:
   * Keras-RL Kütüphanesinin Kullanımı
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
