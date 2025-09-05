@@ -419,7 +419,16 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Taxi Simülatörü DQN ve PPO modelleri ile eğitim denendi, başarısız. Multi Learning işlendi. ~ 144. ders 03.08.2025* :red_circle:
   * Stable-Baselines Kütüphanesinin Kullanımı
 * :red_circle: *gym CustomEnv işlendi. Keras-RL başlık atıldı, mini kıyas konuşuldu. ~ 145. ders 10.08.2025* :red_circle:
-  * Keras-RL Kütüphanesinin Kullanımı
+  * :no_entry_sign: ~~Keras-RL Kütüphanesinin Kullanımı~~
+
+* __PyTorch Kütüphanesinin Kullanımı__
+
+* :red_circle: *Pytorch tarihsel gelişimi anlatıldı, install yapıldı. ~ 146. ders 16.08.2025* :red_circle:
+  * PyTorch Kütüphanesinin Kurulumu
+  * PyToch Kütüphanesinin Temel Özellikleri
+  * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
+  * PyTorch Kütüphanesinde Temel Çalışma Biçimi
+  * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
@@ -438,14 +447,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
 
-* __PyTorch Kütüphanesinin Kullanımı__
-
-  * PyTorch Kütüphanesinin Kurulumu
-  * PyToch Kütüphanesinin Temel Özellikleri
-  * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
-  * PyTorch Kütüphanesinde Temel Çalışma Biçimi
-  * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
-  
 * __Theano Kütüphanesinin Kullanımı__
   
   * Theano Kütüphanesinin Kurulumu
