@@ -408,7 +408,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * :no_entry_sign: Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
 * :red_circle: *Q-Learning tablosu doldurma örnekleri Taxi ve FrozenLike simülasyonları ile yapıldı. ~ 138. ders 12.07.2025* :white_check_mark:
 * :red_circle: *CardPole ve MountainCar (yarıda kesildi) Q-Learning tablosu doldurma örneği yapıldı. Sürekli veriyi ayrık hale getirme işlemi. ~ 139. ders 13.07.2025* :white_check_mark:
-* :red_circle: *Deep Q-Learning giriş yapıldı, "replay buffer" mantığı anlatıldı collections.deque anlatıldı. Devam edecek. ~ 140. ders 19.07.2025* :red_circle:
+* :red_circle: :alarm_clock: *Deep Q-Learning giriş yapıldı, "replay buffer" mantığı anlatıldı collections.deque anlatıldı. Devam edecek. Bu ve davam dersler 2 saate düşürüldü. ~ 140. ders 19.07.2025* :red_circle:
 * :red_circle: *Deep Q-Learning CartPoler için yapıldı fakat çok yavaş çalışıyor. ~ 141. ders 26.07.2025* :red_circle:
    * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
 * :red_circle: *Değer tabanlı (based value) vd DQN yöntemlerin varlığına değinildi. Stable Baseline kütüphanesi giriş yapıldı, kütüphaneler kuruldu. ~ 142. ders 27.07.2025* :red_circle:
@@ -426,6 +426,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Pytorch tarihsel gelişimi anlatıldı, install yapıldı. ~ 146. ders 16.08.2025* :red_circle:
   * PyTorch Kütüphanesinin Kurulumu
   * PyToch Kütüphanesinin Temel Özellikleri
+* :red_circle: *Tensör nesnesinin temel özelliklerini işledik. cuda hakkında temel bilgi. ~ 147. ders 17.08.2025* :red_circle:
   * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
   * PyTorch Kütüphanesinde Temel Çalışma Biçimi
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
