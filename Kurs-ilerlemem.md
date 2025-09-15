@@ -429,6 +429,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Tensör nesnesinin temel özelliklerini işledik. cuda hakkında temel bilgi. ~ 147. ders 17.08.2025* :red_circle:
   * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
   * PyTorch Kütüphanesinde Temel Çalışma Biçimi
+* :red_circle: *Tensör nesnesi metotlarına değinildi. Pytorch dataset nesnesine değinildi. ~ 148. ders 24.08.2025* :red_circle:
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
