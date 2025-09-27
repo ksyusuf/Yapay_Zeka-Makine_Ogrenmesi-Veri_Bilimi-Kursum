@@ -432,6 +432,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Tensör nesnesi metotlarına değinildi. Pytorch dataset nesnesine değinildi. ~ 148. ders 23.08.2025* :red_circle:
 * :red_circle: *TensorDataset özellikleri devam ve torchvision.datasets içerisindeki CIFAR10 ile PIL nesnelerinin Tensor'e dönüşümü.  ~ 149. ders 24.08.2025* :red_circle:
 * :red_circle: *to_tensor() işlendi, sinir ağı oluşturmaya giriş yapıldı. Modal sınfı ve init ve forward.  ~ 150. ders 31.08.2025* :red_circle:
+* :red_circle: *Model sınıfı __init__ metodu teknik detaylar. kapanış kısmında boston modeli başlangıcı yapıldı.  ~ 151. ders 06.09.2025* :red_circle:
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
