@@ -435,6 +435,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Model sınıfı __init__ metodu teknik detaylar. kapanış kısmında boston modeli başlangıcı yapıldı.  ~ 151. ders 06.09.2025* :red_circle:
 * :red_circle: *Model nesneleri oluşturma, loss ve optimizer oluşturma. Fit için senaryo konuşuldu.  ~ 152. ders 07.09.2025* :red_circle:
 * :red_circle: *Epoch ve Batch döngüleri kuruldu, Loss fonksiyonu detaylarına giriş yapıldı. Geriye yayılım mantığı anlatıldı.  ~ 153. ders 13.09.2025* :red_circle:
+* :red_circle: *Test işlemi yapılması. Validasyon için metriklerin nasıl elde edileceğine giriş yapıldı.  ~ 154. ders 14.09.2025* :red_circle:
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
