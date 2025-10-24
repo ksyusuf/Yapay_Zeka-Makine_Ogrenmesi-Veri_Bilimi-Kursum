@@ -438,6 +438,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Test işlemi yapılması. Validasyon için metriklerin nasıl elde edileceğine giriş yapıldı.  ~ 154. ders 14.09.2025* :red_circle:
 * :red_circle: *Validasyon işlendi. no_grad(). Predict işlendi.  ~ 155. ders 21.09.2025* :red_circle:
 * :red_circle: *pytorch kullanırken başka sınıf kullanmadan çalışabilirmişiz. Breast-Cancer veriseti ile deneme ve torchvision CIFAR10'a giriş.  ~ 156. ders 27.09.2025* :red_circle:
+* :red_circle: *torchvision CIFAR10 devam.  ~ 157. ders 28.09.2025* :red_circle:
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
