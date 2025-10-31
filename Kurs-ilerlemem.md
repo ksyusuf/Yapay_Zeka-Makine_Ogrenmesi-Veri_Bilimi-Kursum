@@ -441,7 +441,16 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Torchvision CIFAR10 devam.  ~ 157. ders 28.09.2025* :red_circle:
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
 * :white_check_mark: *Evrişim ve flatten mantığı ve cifar10 veri seti ResNet50 örneği yapıldı.  ~ 158. ders 04.10.2025* :white_check_mark:
-  
+
+* __TensorFlow Kütüphanesinin Kullanımı__
+
+  * TensorFlow kütüphanesinin Tarihsel Gelişimi
+  * TensorFlow Kütüphenesinin Kurulumu
+* :red_circle: *TensorFlow giriş yapıldı. IEEE minik değinildi.  ~ 159. ders 05.10.2025* :red_circle:
+  * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
+  * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
+  * TensorFlow'da Yapay Sinir Ağı Örnekleri
+ 
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
@@ -450,14 +459,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * GPT (Generative Pre-trained Transformer) Ağları
   * ChatGPT Uygulamasının Dayandığı Temel, Kullanım Alanları, Sınırlamaları ve Geleceği
   * Metinsel Çıktı Üretimleri
-    
-* __TensorFlow Kütüphanesinin Kullanımı__
-
-  * TensorFlow kütüphanesinin Tarihsel Gelişimi
-  * TensorFlow Kütüphenesinin Kurulumu
-  * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
-  * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
-  * TensorFlow'da Yapay Sinir Ağı Örnekleri
 
 * __Theano Kütüphanesinin Kullanımı__
   
