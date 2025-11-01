@@ -447,6 +447,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * TensorFlow kütüphanesinin Tarihsel Gelişimi
   * TensorFlow Kütüphenesinin Kurulumu
 * :red_circle: *TensorFlow giriş yapıldı. IEEE minik değinildi.  ~ 159. ders 05.10.2025* :red_circle:
+* :red_circle: *Tensor nesneleri üzerindeki işlemler. Constant ve Variable tensörler.  ~ 160. ders 12.10.2025* :red_circle:
   * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
