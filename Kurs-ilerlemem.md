@@ -449,6 +449,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *TensorFlow giriş yapıldı. IEEE minik değinildi.  ~ 159. ders 05.10.2025* :red_circle:
 * :red_circle: *Tensor nesneleri üzerindeki işlemler. Constant ve Variable tensörler.  ~ 160. ders 12.10.2025* :red_circle:
   * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
+* :red_circle: *Tensörler üzerine işlemler ve yapay sinir ağı oluşturmaya giriş.  ~ 161. ders 18.10.2025* :red_circle:
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
  
