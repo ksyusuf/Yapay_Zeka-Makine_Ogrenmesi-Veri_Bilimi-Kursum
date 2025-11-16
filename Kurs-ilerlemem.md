@@ -449,10 +449,24 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *TensorFlow giriş yapıldı. IEEE minik değinildi.  ~ 159. ders 05.10.2025* :red_circle:
 * :red_circle: *Tensor nesneleri üzerindeki işlemler. Constant ve Variable tensörler.  ~ 160. ders 12.10.2025* :red_circle:
   * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
-* :red_circle: *Tensörler üzerine işlemler ve yapay sinir ağı oluşturmaya giriş.  ~ 161. ders 18.10.2025* :red_circle:
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
- 
+* :red_circle: *Tensörler üzerine işlemler ve yapay sinir ağı oluşturmaya giriş ve tamamlama.  ~ 161. ders 18.10.2025* :red_circle:
+
+* __İstatistiksel Hipotez Testleri ve Uygulamaları__
+   
+  * İstatistiksel Hipotez Testlerinin Anlamı ve Uygulama Alanları
+  * Parametrik Hipotez Testleri ve Parametrik Olmayan Hipotez Testleri
+* :red_circle: *Hpotez testlerii konularına giriş yapıldı.  ~ 162. ders 19.10.2025* :red_circle:
+  * Z Testi ve t Testi
+  * F Dağılımı, F İstatistiği ve F Testi
+  * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
+  * Kovaryans Analizi
+  * Kay Kare (Chi Square) Testi
+  * Mann Whitney U Testi
+  * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
+  * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
+
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
@@ -475,20 +489,6 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Matrisler Üzerinde Temel İşlemler
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Özvektörler
-
-* __İstatistiksel Hipotez Testleri ve Uygulamaları__
-   
-  * İstatistiksel Hipotez Testlerinin Anlamı ve Uygulama Alanları
-  * Parametrik Hipotez Testleri ve Parametrik Olmayan Hipotez Testleri
-  * Z Testi ve t Testi
-  * F Dağılımı, F İstatistiği ve F Testi
-  * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
-  * Kovaryans Analizi
-  * Kay Kare (Chi Square) Testi
-  * Mann Whitney U Testi
-  * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
-  * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
-
 
 * __Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi İçin Cloud Platformlarının Kullanılması__
 
