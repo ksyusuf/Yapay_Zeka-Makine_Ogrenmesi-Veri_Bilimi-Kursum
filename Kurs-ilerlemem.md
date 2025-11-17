@@ -457,8 +457,9 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
    
   * İstatistiksel Hipotez Testlerinin Anlamı ve Uygulama Alanları
   * Parametrik Hipotez Testleri ve Parametrik Olmayan Hipotez Testleri
-* :red_circle: *Hpotez testlerii konularına giriş yapıldı.  ~ 162. ders 19.10.2025* :red_circle:
+* :red_circle: *Hipotez testleri konularına giriş yapıldı.  ~ 162. ders 19.10.2025* :red_circle:
   * Z Testi ve t Testi
+* :red_circle: *Bağımsız örneklemler t testi'ne giriş yapıldı.  ~ 163. ders 01.11.2025* :red_circle:
   * F Dağılımı, F İstatistiği ve F Testi
   * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
   * Kovaryans Analizi
