@@ -461,6 +461,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
   * Z Testi ve t Testi
 * :red_circle: *Bağımsız örneklemler t testi'ne giriş yapıldı.  ~ 163. ders 01.11.2025* :red_circle:
   * F Dağılımı, F İstatistiği ve F Testi
+* :red_circle: *ttesti uygulama örneği yapıldı, stats.ttest_ind ile. ANOVA giriş yapıldı.  ~ 164. ders 02.11.2025* :red_circle:
   * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
   * Kovaryans Analizi
   * Kay Kare (Chi Square) Testi
