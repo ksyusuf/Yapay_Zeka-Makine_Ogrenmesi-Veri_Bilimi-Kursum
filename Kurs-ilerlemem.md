@@ -464,6 +464,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *ttesti uygulama örneği yapıldı, stats.ttest_ind ile. ANOVA giriş yapıldı.  ~ 164. ders 02.11.2025* :red_circle:
 * :red_circle: *Tek yönlü ANOVA uygulama örneği yapıldı.  ~ 165. ders 09.11.2025* :red_circle:
 * :red_circle: *Tek yönlü ANOVA matematiksel temeli anlatıldı, çift yönlü anova giriş yapıldı.  ~ 166. ders 15.11.2025* :red_circle:
+* :red_circle: *Çift yönlü ANOVA devam ve Bağımlı Örneklemler t-testi giriş.  ~ 167. ders 16.11.2025* :red_circle:
   * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
   * Kovaryans Analizi
   * Kay Kare (Chi Square) Testi
