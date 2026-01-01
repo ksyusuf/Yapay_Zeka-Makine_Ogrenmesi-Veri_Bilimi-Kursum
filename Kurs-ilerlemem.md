@@ -467,6 +467,7 @@ Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kurs İçerik İlerlemesi
 * :red_circle: *Çift yönlü ANOVA devam ve Bağımlı Örneklemler t-testi giriş.  ~ 167. ders 16.11.2025* :red_circle:
   * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
 * :red_circle: *Bağımlı Örneklemler t-testi mini uygulama, testlerde güvenilirlik ve geçerlilik.  ~ 168. ders 23.11.2025* :red_circle:
+* :red_circle: *Tek yönlü ANOVA, statsmodels AnovaRM uygulama örneği yapıldı.  ~ 169. ders 30.11.2025* :red_circle:
   * Kovaryans Analizi
   * Kay Kare (Chi Square) Testi
   * Mann Whitney U Testi
